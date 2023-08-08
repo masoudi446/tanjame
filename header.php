@@ -9,8 +9,18 @@
 
     <nav id="navbar" class="navbar order-last order-lg-0">
         <ul>
-            <li><a class="nav-link scrollto active" href="index.php#hero">Home</a></li>
-            <li><a class="nav-link scrollto" href="who_we_are.php">Who we are?</a></li>
+            <li><a class="nav-link scrollto <?php
+                $url = $_SERVER['REQUEST_URI'];
+                if ((strpos($url, 'index.php') !== false) or (strpos($url, '.php') == false)) {
+                    echo " active ";
+                }
+                ?> "href="index.php#hero">Home</a></li>
+            <li><a class="nav-link scrollto <?php
+                $url = $_SERVER['REQUEST_URI'];
+                if (strpos($url, 'who_we_are.php') !== false) {
+                    echo " active ";
+                }
+                ?>"href="who_we_are.php">Who we are?</a></li>
             <!--<li><a class="nav-link scrollto" href="#services">Services</a></li>
             <li><a class="nav-link scrollto " href="#portfolio">Portfolio</a></li>
             <li><a class="nav-link scrollto" href="#team">Team</a></li>-->

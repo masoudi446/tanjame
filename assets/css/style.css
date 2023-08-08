@@ -759,7 +759,7 @@ section {
 }
 
 .cta.thanks_who_we_are {
-  background: linear-gradient(rgb(227, 148, 189), rgb(227, 148, 189));
+  background: linear-gradient(rgba(0, 0, 0,0.8), rgba(0, 0, 0,0.8)), url("../img/tanjameh_ltd.jpg") fixed center center;
   background-size: cover;
   padding: 60px 0;
 }
@@ -782,7 +782,7 @@ section {
 .cta.thanks_who_we_are p{
   font-size: 20px;
   font-style: oblique;
-  color: #000;
+  color: #e394bd;
 }
 
 .cta .cta-btn {
