@@ -61,22 +61,37 @@
 
         </div>
     </section><!-- End Breadcrumbs -->
-
+    <!-- ======= Cta Section ======= -->
+    <section id="cta" class="cta who_we_are">
+        <div class="container" data-aos="zoom-in">
+            <div class="text-center">
+                <p>
+                    Our journey began as a textile manufacturer, but we have evolved into something much greater – an
+                    innovative online marketplace for fashion and lifestyle. Embracing this transformation, we now offer
+                    a diverse and exciting platform that caters to the ever-changing needs and desires of our valued
+                    customers. From our manufacturing roots, we have bloomed into a thriving hub of fashion and
+                    lifestyle, delivering a remarkable shopping experience to all.
+                </p>
+            </div>
+        </div>
+    </section><!-- End Cta Section -->
     <section class="inner-page who_we_are">
         <div class="container">
+
+            <!-- <div class="row">
+                 <div class="col-lg-6 order-1 order-lg-2" data-aos="fade-left" data-aos-delay="100">
+                     <p>
+                         Our journey began as a textile manufacturer, but we have evolved into something much greater – an innovative online marketplace for fashion and lifestyle. Embracing this transformation, we now offer a diverse and exciting platform that caters to the ever-changing needs and desires of our valued customers. From our manufacturing roots, we have bloomed into a thriving hub of fashion and lifestyle, delivering a remarkable shopping experience to all.
+                     </p>
+                 </div>
+                 <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-right"
+                      data-aos-delay="100">
+                     <img src="assets/img/tanjameh_ltd.jpg" class="img-fluid" alt="">
+                 </div>
+             </div>-->
             <div class="row">
-                <div class="col-lg-6 order-1 order-lg-2" data-aos="fade-left" data-aos-delay="100">
-                    <img src="assets/img/tanjameh_ltd.jpg" class="img-fluid" alt="">
-                </div>
-                <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-right"
+                <div class="col-lg-12 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-left"
                      data-aos-delay="100">
-                    <p>
-                        Our journey began as a textile manufacturer, but we have evolved into something much greater – an innovative online marketplace for fashion and lifestyle. Embracing this transformation, we now offer a diverse and exciting platform that caters to the ever-changing needs and desires of our valued customers. From our manufacturing roots, we have bloomed into a thriving hub of fashion and lifestyle, delivering a remarkable shopping experience to all.
-                    </p>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-12 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-left" data-aos-delay="100">
                     <h3>
                         <ul>
                             <li><i class="ri-check-double-line"></i> Tanjameh at a glance</li>
@@ -84,125 +99,202 @@
                     </h3>
                     <p>
                         Founded in 2018 in London, Tanjameh Ltd. today is an online marketplace for fashion.
-                        Tanjameh is a dynamic platform that bridges the gap between customers, brands, and partners in both Iran and the United Kingdom. Originally established as a UK-based company in 2018, we have rapidly evolved into an influential online marketplace for fashion and lifestyle. This remarkable growth is a testament to the exceptional dedication and business acumen of our team.
+                        Tanjameh is a dynamic platform that bridges the gap between customers, brands, and partners in
+                        both Iran and the United Kingdom. Originally established as a UK-based company in 2018, we have
+                        rapidly evolved into an influential online marketplace for fashion and lifestyle. This
+                        remarkable growth is a testament to the exceptional dedication and business acumen of our team.
                     </p>
                 </div>
             </div>
             <div class="row">
-                <div class="col-lg-12 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-left" data-aos-delay="100">
+                <div class="col-lg-12 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-left"
+                     data-aos-delay="100">
                     <h3>
                         <ul>
-                            <li><i class="ri-check-double-line"></i>Right from the outset, Tanjameh has been reimagining the fashion market</li>
+                            <li><i class="ri-check-double-line"></i>Right from the outset, Tanjameh has been reimagining
+                                the fashion market
+                            </li>
                         </ul>
                     </h3>
                     <p>
-                        Fearlessly embracing risks and continuously pushing boundaries, we have consistently raised the bar in terms of service standards. At the heart of our platform lies the Tanjameh Shop, which embodies our unwavering commitment to customer satisfaction. Here, customers can discover an extensive range of fashion and lifestyle products, encompassing renowned international brands as well as exclusive offerings from Tanjameh's private labels. Our relentless customer focus drives our mindset and propels our actions forward.
+                        Fearlessly embracing risks and continuously pushing boundaries, we have consistently raised the
+                        bar in terms of service standards. At the heart of our platform lies the Tanjameh Shop, which
+                        embodies our unwavering commitment to customer satisfaction. Here, customers can discover an
+                        extensive range of fashion and lifestyle products, encompassing renowned international brands as
+                        well as exclusive offerings from Tanjameh's private labels. Our relentless customer focus drives
+                        our mindset and propels our actions forward.
                     </p>
                 </div>
             </div>
             <div class="row">
-                <div class="col-lg-12 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-left" data-aos-delay="100">
+                <div class="col-lg-12 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-left"
+                     data-aos-delay="100">
                     <h3>
                         <ul>
-                            <li><i class="ri-check-double-line"></i>Creating a new ecosystem that connects customers, brands and partners</li>
+                            <li><i class="ri-check-double-line"></i>Creating a new ecosystem that connects customers,
+                                brands and partners
+                            </li>
                         </ul>
                     </h3>
                     <p>
-                        Our vision is to create an inclusive infrastructure that seamlessly connects the diverse stakeholders in the thriving digital fashion market. Drawing on our profound knowledge in fashion, technology, and convenience, we empower our customers with an extensive array of products and user-friendly services tailored to their unique needs. Through this approach, we revolutionize the fashion industry, making it accessible and transformative for everyone involved. Together, we redefine the future of fashion, for us and for all.
+                        Our vision is to create an inclusive infrastructure that seamlessly connects the diverse
+                        stakeholders in the thriving digital fashion market. Drawing on our profound knowledge in
+                        fashion, technology, and convenience, we empower our customers with an extensive array of
+                        products and user-friendly services tailored to their unique needs. Through this approach, we
+                        revolutionize the fashion industry, making it accessible and transformative for everyone
+                        involved. Together, we redefine the future of fashion, for us and for all.
                     </p>
                 </div>
             </div>
         </div>
     </section>
-    <!-- ======= Features Section ======= -->
-    <section id="features" class="features">
+    <!-- ======= Services Section ======= -->
+    <section id="services" class="services">
         <div class="container" data-aos="fade-up">
-            <div class="row pb-5">
-                <div class="image col-lg-6" style='background-image: url("assets/img/tanjameh_ltd.jpg");'
-                     data-aos="fade-right"></div>
-                <div class="col-lg-6" data-aos="fade-left" data-aos-delay="100">
-                    <div class="icon-box mt-5 mt-lg-0" data-aos="zoom-in" data-aos-delay="150">
-                        <i class="bx bx-receipt"></i>
-                        <h4>Introduction</h4>
-                        <p >Welcome to Tanjameh - Where Fashion Meets Lifestyle! At Tanjameh, we are not just an online marketplace; we are a vibrant fashion community that connects customers, brands, and partners between Iran and the United Kingdom.</p>
-                    </div>
-                    <div class="icon-box mt-5" data-aos="zoom-in" data-aos-delay="150">
-                        <i class="bx bx-cube-alt"></i>
-                        <h4>Our Story</h4>
-                        <p>Tanjameh's journey began in 2018 as a UK-based company with a passion for revolutionizing the fashion industry. Over the years, we have grown into a thriving platform, offering a curated selection of fashion and lifestyle products that cater to diverse tastes and preferences.</p>
-                    </div>
-                    <div class="icon-box mt-5" data-aos="zoom-in" data-aos-delay="150">
-                        <i class="bx bx-images"></i>
-                        <h4>Mission and Vision</h4>
-                        <p>Our mission is simple yet powerful - to be the ultimate one-stop fashion destination that empowers individuals to explore, connect, and redefine their sense of style. We aspire to make fashion accessible to all, bridging the gap between fashion enthusiasts in Iran and the United Kingdom.</p>
-                    </div>
-                    <div class="icon-box mt-5" data-aos="zoom-in" data-aos-delay="150">
-                        <i class="bx bx-shield"></i>
-                        <h4>Core Values</h4>
-                        <p>At Tanjameh, our core values shape every decision we make. We prioritize integrity, transparency, and customer-centricity, ensuring that our community's needs are at the heart of all our endeavors. Creativity, innovation, and sustainability are the guiding principles driving us towards a brighter and more responsible fashion future.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="container" data-aos="fade-Down">
-            <div class="row pb-5">
-                <div class="col-lg-12" data-aos="fade-left" data-aos-delay="100">
-                    <div class="icon-box mt-5 mt-lg-0" data-aos="zoom-in" data-aos-delay="150">
-                        <i class="bx bx-receipt"></i>
-                        <h4>Leadership Team</h4>
-                        <p>Our leadership team comprises visionary individuals who bring a wealth of expertise and passion to Tanjameh. With their dedication, we lead the charge in transforming the fashion landscape and providing an unparalleled experience to our customers and partners.</p>
-                    </div>
-                    <div class="icon-box mt-5" data-aos="zoom-in" data-aos-delay="150">
-                        <i class="bx bx-cube-alt"></i>
-                        <h4>Company Culture</h4>
-                        <p>Tanjameh is more than just a company; it's a close-knit community united by a shared love for fashion and lifestyle. Our company culture fosters creativity, collaboration, and growth, empowering every team member to thrive and contribute their unique strengths.</p>
-                    </div>
-                    <div class="icon-box mt-5" data-aos="zoom-in" data-aos-delay="150">
-                        <i class="bx bx-images"></i>
-                        <h4>Our Achievements</h4>
-                        <p>We take immense pride in the achievements and recognition we have garnered along the way. Each milestone affirms our dedication to excellence and inspires us to continuously raise the bar in fashion retail.</p>
-                    </div>
-                    <div class="icon-box mt-5" data-aos="zoom-in" data-aos-delay="150">
-                        <i class="bx bx-shield"></i>
-                        <h4>Community Involvement</h4>
-                        <p>As a responsible corporate citizen, we actively participate in community initiatives and support charitable endeavors. At Tanjameh, we believe in giving back and making a positive impact on the lives of others.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="container" data-aos="fade-up">
+
+            <!--            <div class="section-title">
+                            <h2>Services</h2>
+                            <p>Check our Services</p>
+                        </div>-->
+
             <div class="row">
-                <div class="col-lg-6" data-aos="fade-left" data-aos-delay="100">
-                    <div class="icon-box mt-5 mt-lg-0" data-aos="zoom-in" data-aos-delay="150">
-                        <i class="bx bx-receipt"></i>
-                        <h4>Diversity and Inclusion</h4>
-                        <p>We celebrate diversity and promote an inclusive environment where every voice is valued. Embracing diverse perspectives enriches our culture and drives innovation.</p>
-                    </div>
-                    <div class="icon-box mt-5" data-aos="zoom-in" data-aos-delay="150">
-                        <i class="bx bx-cube-alt"></i>
-                        <h4>Future Vision</h4>
-                        <p>Our journey is ever-evolving, and the future excites us with endless possibilities. We envision Tanjameh as a driving force that shapes the future of fashion and lifestyle, breaking barriers and inspiring individuals worldwide.</p>
-                    </div>
-                    <div class="icon-box mt-5" data-aos="zoom-in" data-aos-delay="150">
-                        <i class="bx bx-images"></i>
-                        <h4>Testimonials</h4>
-                        <p>We are humbled by the overwhelming support and appreciation from our satisfied customers, brand partners, and collaborators. Their kind words reinforce our commitment to delivering exceptional experiences.</p>
-                    </div>
-                    <div class="icon-box mt-5" data-aos="zoom-in" data-aos-delay="150">
-                        <i class="bx bx-shield"></i>
-                        <h4>Contact Information</h4>
-                        <p>Whether you are a potential customer, partner, or media representative, we are here to connect with you. Reach out to us for inquiries, collaborations, or to explore opportunities to work together.
-
-                            Thank you for being part of the Tanjameh journey. Together, we will continue to create a world of fashion that empowers, inspires, and celebrates individuality!
-                        </p>
+                <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
+                    <div class="icon-box">
+                        <div class="icon"><i class="bx bx-message-square-check"></i></div>
+                        <h4><a href="">Introduction</a></h4>
+                        <p>Welcome to Tanjameh - Where Fashion Meets Lifestyle! At Tanjameh, we are not just an online
+                            marketplace; we are a vibrant fashion community that connects customers, brands, and
+                            partners between Iran and the United Kingdom.</p>
                     </div>
                 </div>
-                <div class="image col-lg-6" style='background-image: url("assets/img/tanjameh_ltd.jpg");'
-                     data-aos="fade-right"></div>
+
+                <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in"
+                     data-aos-delay="200">
+                    <div class="icon-box">
+                        <div class="icon"><i class="bx bx-book-open"></i></div>
+                        <h4><a href="">Our Story</a></h4>
+                        <p>Tanjameh's journey began in 2018 as a UK-based company with a passion for revolutionizing the
+                            fashion industry. Over the years, we have grown into a thriving platform, offering a curated
+                            selection of fashion and lifestyle products that cater to diverse tastes and
+                            preferences.</p>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0" data-aos="zoom-in"
+                     data-aos-delay="300">
+                    <div class="icon-box">
+                        <div class="icon"><i class="bx bx-show"></i></div>
+                        <h4><a href="">Mission and Vision</a></h4>
+                        <p>Our mission is simple yet powerful - to be the ultimate one-stop fashion destination that
+                            empowers individuals to explore, connect, and redefine their sense of style. We aspire to
+                            make fashion accessible to all, bridging the gap between fashion enthusiasts in Iran and the
+                            United Kingdom.</p>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="100">
+                    <div class="icon-box">
+                        <div class="icon"><i class="bx bxl-sketch"></i></div>
+                        <h4><a href="">Core Values</a></h4>
+                        <p>At Tanjameh, our core values shape every decision we make. We prioritize integrity,
+                            transparency, and customer-centricity, ensuring that our community's needs are at the heart
+                            of all our endeavors. Creativity, innovation, and sustainability are the guiding principles
+                            driving us towards a brighter and more responsible fashion future.</p>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="200">
+                    <div class="icon-box">
+                        <div class="icon"><i class="bx bx-user"></i></div>
+                        <h4><a href="">Leadership Team</a></h4>
+                        <p>Our leadership team comprises visionary individuals who bring a wealth of expertise and
+                            passion to Tanjameh. With their dedication, we lead the charge in transforming the fashion
+                            landscape and providing an unparalleled experience to our customers and partners</p>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="300">
+                    <div class="icon-box">
+                        <div class="icon"><i class="bx bxs-business"></i></div>
+                        <h4><a href="">Company Culture</a></h4>
+                        <p>Tanjameh is more than just a company; it's a close-knit community united by a shared love for
+                            fashion and lifestyle. Our company culture fosters creativity, collaboration, and growth,
+                            empowering every team member to thrive and contribute their unique strengths.</p>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="300">
+                    <div class="icon-box">
+                        <div class="icon"><i class="bx bx-medal"></i></div>
+                        <h4><a href="">Our Achievements</a></h4>
+                        <p>We take immense pride in the achievements and recognition we have garnered along the way.
+                            Each milestone affirms our dedication to excellence and inspires us to continuously raise
+                            the bar in fashion retail.</p>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="300">
+                    <div class="icon-box">
+                        <div class="icon"><i class="bx bx-group"></i></div>
+                        <h4><a href="">Community Involvement</a></h4>
+                        <p>As a responsible corporate citizen, we actively participate in community initiatives and
+                            support charitable endeavors. At Tanjameh, we believe in giving back and making a positive
+                            impact on the lives of others.</p>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="300">
+                    <div class="icon-box">
+                        <div class="icon"><i class="bx bx-category"></i></div>
+                        <h4><a href="">Diversity and Inclusion</a></h4>
+                        <p>We celebrate diversity and promote an inclusive environment where every voice is valued.
+                            Embracing diverse perspectives enriches our culture and drives innovation.</p>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="300">
+                    <div class="icon-box">
+                        <div class="icon"><i class="bx bx-star"></i></div>
+                        <h4><a href="">Future Vision</a></h4>
+                        <p>Our journey is ever-evolving, and the future excites us with endless possibilities. We
+                            envision Tanjameh as a driving force that shapes the future of fashion and lifestyle,
+                            breaking barriers and inspiring individuals worldwide.</p>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="300">
+                    <div class="icon-box">
+                        <div class="icon"><i class="bx bx-message-check"></i></div>
+                        <h4><a href="">Testimonials</a></h4>
+                        <p>We are humbled by the overwhelming support and appreciation from our satisfied customers,
+                            brand partners, and collaborators. Their kind words reinforce our commitment to delivering
+                            exceptional experiences.</p>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="300">
+                    <div class="icon-box">
+                        <div class="icon"><i class="bx bx-phone-call"></i></div>
+                        <h4><a href="">Contact Information</a></h4>
+                        <p>Whether you are a potential customer, partner, or media representative, we are here to
+                            connect with you. Reach out to us for inquiries, collaborations, or to explore opportunities
+                            to work together.</p>
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+    </section><!-- End Services Section -->
+    <!-- ======= Cta Section ======= -->
+    <section id="cta" class="cta thanks_who_we_are">
+        <div class="container" data-aos="zoom-in">
+            <div class="text-center">
+                <p>
+                    Thank you for being part of the Tanjameh journey. Together, we will continue to create a world of fashion that empowers, inspires, and celebrates individuality!
+                </p>
             </div>
         </div>
-    </section><!-- End Features Section -->
-
+    </section><!-- End Cta Section -->
 </main><!-- End #main -->
 
 <?php include "footer.php"; ?>
