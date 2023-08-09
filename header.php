@@ -24,7 +24,12 @@
             <!--<li><a class="nav-link scrollto" href="#services">Services</a></li>
             <li><a class="nav-link scrollto " href="#portfolio">Portfolio</a></li>
             <li><a class="nav-link scrollto" href="#team">Team</a></li>-->
-            <li class="dropdown"><a href="#"><span>what we do</span> <i class="bi bi-chevron-down"></i></a>
+            <li class="dropdown"><a href="what_we_do.php" class="<?php
+                $url = $_SERVER['REQUEST_URI'];
+                if (strpos($url, 'what_we_do.php') !== false or strpos($url, 'b2b.php') !== false or strpos($url, 'tanjameh_com.php')  !== false or strpos($url, 'tanjameh_look.php') !== false or strpos($url, 'tanjameh_lounge.php') !== false) {
+                    echo " active ";
+                }
+                ?>"><span>what we do</span> <i class="bi bi-chevron-down"></i></a>
                 <ul>
                     <li class="dropdown"><a href="b2b.php"><span>B2B</span></a></li>
                     <!--<li class="dropdown"><a href="#"><span>B2B</span> <i class="bi bi-chevron-right"></i></a>

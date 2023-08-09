@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-    <title>Inner Page - Gp Bootstrap Template</title>
+    <title>Tanjameh Look</title>
     <meta content="" name="description">
     <meta content="" name="keywords">
 
@@ -55,7 +55,7 @@
                 <h2>Tanjameh Look our Fashion social media</h2>
                 <ol>
                     <li><a href="index.php">Home</a></li>
-                    <li>What We Do?</li>
+                    <li><a href="what_we_do.php">What We Do?</a></li>
                     <li>B2C</li>
                     <li><a href="#">Tanjameh Look</a></li>
                 </ol>
@@ -63,17 +63,23 @@
 
         </div>
     </section><!-- End Breadcrumbs -->
-
-    <section class="inner-page">
-        <div class="container">
-            <p>
-                Get inspired on " Tanjameh Look" where models and creators showcase their unique styles, earning commissions from purchases made through their content.<br>
-                At Tanjameh, we take pride in offering seamless experiences, championing ethical practices, and nurturing creativity in the world of fashion and lifestyle. Join us as we redefine the way you shop, connect, and express yourself!
-
-            </p>
+    <!-- ======= About Section ======= -->
+    <section class="about">
+        <div class="container" data-aos="fade-up">
+            <div class="row">
+                <div class="col-lg-6 order-1 order-lg-2" data-aos="fade-left" data-aos-delay="100">
+                    <p style="text-align: justify;">
+                        Get inspired on "Tanjameh Look" where models and creators showcase their unique styles, earning commissions from purchases made through their content.<br>
+                        At Tanjameh, we take pride in offering seamless experiences, championing ethical practices, and nurturing creativity in the world of fashion and lifestyle. Join us as we redefine the way you shop, connect, and express yourself!
+                    </p>
+                </div>
+                <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-right"
+                     data-aos-delay="100">
+                    <img src="assets/img/008 Tanjameh Look.jpg" class="img-fluid" alt="">
+                </div>
+            </div>
         </div>
-    </section>
-
+    </section><!-- End About Section -->
 </main><!-- End #main -->
 
 <?php include "footer.php"; ?>

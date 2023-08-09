@@ -96,7 +96,6 @@
     <!-- ======= About Section ======= -->
     <section id="about" class="about">
         <div class="container" data-aos="fade-up">
-
             <div class="row">
                 <div class="col-lg-6 order-1 order-lg-2" data-aos="fade-left" data-aos-delay="100">
                     <img style="margin-top: 45px;" src="assets/img/tanjameh_ltd.jpg" class="img-fluid" alt="">
@@ -161,9 +160,8 @@
     </section><!-- End Clients Section -->
 
     <!-- ======= Features Section ======= -->
-    <section id="features" class="features">
+   <!-- <section id="features" class="features">
         <div class="container" data-aos="fade-up">
-
             <div class="row">
                 <div class="image col-lg-6" style='background-image: url("assets/img/features.jpg");'
                      data-aos="fade-right"></div>
@@ -190,25 +188,23 @@
                     </div>
                 </div>
             </div>
-
         </div>
-    </section><!-- End Features Section -->
-
-    <!-- ======= Services Section ======= -->
-    <section id="services" class="services">
+    </section>--><!-- End Features Section -->
+    <!-- ======= Services2 Section ======= -->
+    <section id="services2" class="services">
         <div class="container" data-aos="fade-up">
 
             <div class="section-title">
                 <h2>Services</h2>
-                <p>Check our Services</p>
+                <p>B2C Marketplace</p>
             </div>
 
             <div class="row">
                 <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
                     <div class="icon-box">
                         <div class="icon"><i class="bx bxl-dribbble"></i></div>
-                        <h4><a href="">Lorem Ipsum</a></h4>
-                        <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
+                        <h4><a href="tanjameh_com.php">Tanjameh.com</a></h4>
+                        <p>Discover your ultimate fashion destination at Tanjameh.com! We curate a diverse range of fashion and lifestyle products, bringing the best of the UK to Iran and the Middle East. Whether you're looking for trendy clothing, stylish footwear, chic accessories, or beauty essentials, our platform has it all. With a user-friendly interface and personalized recommendations, shopping with us is a breeze!</p>
                     </div>
                 </div>
 
@@ -216,8 +212,8 @@
                      data-aos-delay="200">
                     <div class="icon-box">
                         <div class="icon"><i class="bx bx-file"></i></div>
-                        <h4><a href="">Sed ut perspiciatis</a></h4>
-                        <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</p>
+                        <h4><a href="tanjameh_lounge.php">Tanjameh Lounge</a></h4>
+                        <p>Welcome to Tanjameh Lounge, where we empower businesses to shine on our bustling platform. This section allows other brands and businesses to showcase and sell their unique items, expanding their reach to a wider audience. Join us in fostering a thriving community of creative entrepreneurs, offering customers a richer and more diverse shopping experience. Together, we'll redefine the fashion landscape and create new opportunities for success!</p>
                     </div>
                 </div>
 
@@ -225,42 +221,26 @@
                      data-aos-delay="300">
                     <div class="icon-box">
                         <div class="icon"><i class="bx bx-tachometer"></i></div>
-                        <h4><a href="">Magni Dolores</a></h4>
-                        <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
+                        <h4><a href="tanjameh_look.php">Tanjameh Look</a></h4>
+                        <p>Get inspired on " Tanjameh Look" where models and creators showcase their unique styles, earning commissions from purchases made through their content.
+
+                            At Tanjameh, we take pride in offering seamless experiences, championing ethical practices, and nurturing creativity in the world of fashion and lifestyle. Join us as we redefine the way you shop, connect, and express yourself!
+                        </p>
                     </div>
                 </div>
-
-                <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="100">
-                    <div class="icon-box">
-                        <div class="icon"><i class="bx bx-world"></i></div>
-                        <h4><a href="">Nemo Enim</a></h4>
-                        <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="200">
-                    <div class="icon-box">
-                        <div class="icon"><i class="bx bx-slideshow"></i></div>
-                        <h4><a href="">Dele cardo</a></h4>
-                        <p>Quis consequatur saepe eligendi voluptatem consequatur dolor consequuntur</p>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="300">
-                    <div class="icon-box">
-                        <div class="icon"><i class="bx bx-arch"></i></div>
-                        <h4><a href="">Divera don</a></h4>
-                        <p>Modi nostrum vel laborum. Porro fugit error sit minus sapiente sit aspernatur</p>
-                    </div>
-                </div>
-
-            </div>
-
         </div>
     </section><!-- End Services Section -->
+    <section id="cta" class="cta what_we_do">
+        <div class="container" data-aos="zoom-in">
+            <div class="text-center">
+                <h4><a href="b2b.php">B2B Services : Unlocking Business Opportunities</a></h4>
+                <p>Representing Yazdbaf Company, we offer wholesale distribution, procuring essential supplies like zippers, chemicals, cotton, and raw materials for businesses.</p>
+            </div>
+        </div>
+    </section><!-- End Cta Section -->
 
     <!-- ======= Cta Section ======= -->
-    <section id="cta" class="cta">
+    <!--<section id="cta" class="cta">
         <div class="container" data-aos="zoom-in">
 
             <div class="text-center">
@@ -272,10 +252,10 @@
             </div>
 
         </div>
-    </section><!-- End Cta Section -->
+    </section>--><!-- End Cta Section -->
 
     <!-- ======= Portfolio Section ======= -->
-    <section id="portfolio" class="portfolio">
+   <!-- <section id="portfolio" class="portfolio">
         <div class="container" data-aos="fade-up">
 
             <div class="section-title">
@@ -434,10 +414,10 @@
             </div>
 
         </div>
-    </section><!-- End Portfolio Section -->
+    </section>--><!-- End Portfolio Section -->
 
     <!-- ======= Counts Section ======= -->
-    <section id="counts" class="counts">
+    <!--<section id="counts" class="counts">
         <div class="container" data-aos="fade-up">
 
             <div class="row no-gutters">
@@ -492,15 +472,15 @@
                                 </div>
                             </div>
                         </div>
-                    </div><!-- End .content-->
+                    </div>
                 </div>
             </div>
 
         </div>
-    </section><!-- End Counts Section -->
+    </section>--><!-- End Counts Section -->
 
     <!-- ======= Testimonials Section ======= -->
-    <section id="testimonials" class="testimonials">
+    <!--<section id="testimonials" class="testimonials">
         <div class="container" data-aos="zoom-in">
 
             <div class="testimonials-slider swiper" data-aos="fade-up" data-aos-delay="100">
@@ -519,7 +499,7 @@
                                 <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                             </p>
                         </div>
-                    </div><!-- End testimonial item -->
+                    </div>
 
                     <div class="swiper-slide">
                         <div class="testimonial-item">
@@ -534,7 +514,7 @@
                                 <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                             </p>
                         </div>
-                    </div><!-- End testimonial item -->
+                    </div>
 
                     <div class="swiper-slide">
                         <div class="testimonial-item">
@@ -548,7 +528,7 @@
                                 <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                             </p>
                         </div>
-                    </div><!-- End testimonial item -->
+                    </div>
 
                     <div class="swiper-slide">
                         <div class="testimonial-item">
@@ -563,7 +543,7 @@
                                 <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                             </p>
                         </div>
-                    </div><!-- End testimonial item -->
+                    </div>
 
                     <div class="swiper-slide">
                         <div class="testimonial-item">
@@ -578,16 +558,16 @@
                                 <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                             </p>
                         </div>
-                    </div><!-- End testimonial item -->
+                    </div>
                 </div>
                 <div class="swiper-pagination"></div>
             </div>
 
         </div>
-    </section><!-- End Testimonials Section -->
+    </section>--><!-- End Testimonials Section -->
 
     <!-- ======= Team Section ======= -->
-    <section id="team" class="team">
+  <!--  <section id="team" class="team">
         <div class="container" data-aos="fade-up">
 
             <div class="section-title">
@@ -672,7 +652,7 @@
             </div>
 
         </div>
-    </section><!-- End Team Section -->
+    </section>--><!-- End Team Section -->
 
     <!-- ======= Contact Section ======= -->
     <section id="contact" class="contact">

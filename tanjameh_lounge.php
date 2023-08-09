@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-    <title>Inner Page - Gp Bootstrap Template</title>
+    <title>Tanjameh Lounge</title>
     <meta content="" name="description">
     <meta content="" name="keywords">
 
@@ -55,7 +55,7 @@
                 <h2>Tanjameh Lounge - Empowering Businesses</h2>
                 <ol>
                     <li><a href="index.php">Home</a></li>
-                    <li>What We Do?</li>
+                    <li><a href="what_we_do.php">What We Do?</a></li>
                     <li>B2C</li>
                     <li><a href="#">Tanjameh Lounge</a></li>
                 </ol>
@@ -63,14 +63,22 @@
 
         </div>
     </section><!-- End Breadcrumbs -->
-
-    <section class="inner-page">
-        <div class="container">
-            <p>
-                Welcome to Tanjameh Lounge, where we empower businesses to shine on our bustling platform. This section allows other brands and businesses to showcase and sell their unique items, expanding their reach to a wider audience. Join us in fostering a thriving community of creative entrepreneurs, offering customers a richer and more diverse shopping experience. Together, we'll redefine the fashion landscape and create new opportunities for success!
-            </p>
+    <!-- ======= About Section ======= -->
+    <section class="about">
+        <div class="container" data-aos="fade-up">
+            <div class="row">
+                <div class="col-lg-6 order-1 order-lg-2" data-aos="fade-left" data-aos-delay="100">
+                    <p style="text-align: justify;">
+                        Welcome to Tanjameh Lounge, where we empower businesses to shine on our bustling platform.<br> This section allows other brands and businesses to showcase and sell their unique items, expanding their reach to a wider audience.<br> Join us in fostering a thriving community of creative entrepreneurs, offering customers a richer and more diverse shopping experience.<br> Together, we'll redefine the fashion landscape and create new opportunities for success!
+                    </p>
+                </div>
+                <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-right"
+                     data-aos-delay="100">
+                    <img src="assets/img/007 Tanjameh Lounge 2.jpg" class="img-fluid" alt="">
+                </div>
+            </div>
         </div>
-    </section>
+    </section><!-- End About Section -->
 
 </main><!-- End #main -->
 

@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-    <title>Inner Page - Gp Bootstrap Template</title>
+    <title>Tanjameh.com</title>
     <meta content="" name="description">
     <meta content="" name="keywords">
 
@@ -55,7 +55,7 @@
                 <h2>Tanjameh.com</h2>
                 <ol>
                     <li><a href="index.php">Home</a></li>
-                    <li>What We Do?</li>
+                    <li><a href="what_we_do.php">What We Do?</a></li>
                     <li>B2C</li>
                     <li><a href="#">Tanjameh.com</a></li>
                 </ol>
@@ -63,15 +63,26 @@
 
         </div>
     </section><!-- End Breadcrumbs -->
-
-    <section class="inner-page">
-        <div class="container">
-            <p>
-                Discover your ultimate fashion destination at Tanjameh.com! We curate a diverse range of fashion and lifestyle products, bringing the best of the UK to Iran and the Middle East. Whether you're looking for trendy clothing, stylish footwear, chic accessories, or beauty essentials, our platform has it all. With a user-friendly interface and personalized recommendations, shopping with us is a breeze!
-            </p>
+    <!-- ======= About Section ======= -->
+    <section class="about">
+        <div class="container" data-aos="fade-up">
+            <div class="row">
+                <div class="col-lg-6 order-1 order-lg-2" data-aos="fade-left" data-aos-delay="100">
+                    <p style="text-align: justify;">
+                        Discover your ultimate fashion destination at <a href="https://tanjameh.com" target="_blank">Tanjameh.com!</a>
+                        We curate a diverse range of fashion and lifestyle products, bringing the best of the UK to Iran
+                        and the Middle East.<br> Whether you're looking for trendy clothing, stylish footwear, chic
+                        accessories, or beauty essentials, our platform has it all. With a user-friendly interface and
+                        personalized recommendations, shopping with us is a breeze!
+                    </p>
+                </div>
+                <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-right"
+                     data-aos-delay="100">
+                    <img src="assets/img/tanjameh_com.PNG" class="img-fluid" alt="">
+                </div>
+            </div>
         </div>
-    </section>
-
+    </section><!-- End About Section -->
 </main><!-- End #main -->
 
 <?php include "footer.php"; ?>
