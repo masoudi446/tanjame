@@ -47,23 +47,28 @@
                     </li>
                 </ul>
             </li>
-            <li class="dropdown"><a href="#"><span>Yazdbaf Co</span> <i class="bi bi-chevron-down"></i></a>
+            <li class="dropdown"><a href="yazdbaf_co.php" class="<?php
+                $url = $_SERVER['REQUEST_URI'];
+                if (strpos($url, 'yazdbaf_') !== false) {
+                    echo " active ";
+                }
+                ?>"><span>Yazdbaf Co.</span> <i class="bi bi-chevron-down"></i></a>
                 <ul>
-                    <li class="dropdown"><a href="#"><span>History</span></a></li>
+                    <li class="dropdown"><a href="yazdbaf_yazd_city.php"><span>Yazd City</span></a></li>
                     <li class="dropdown"><a href="#"><span>Products</span> <i class="bi bi-chevron-right"></i></a>
                         <ul>
-                            <li><a href="#">Spinning</a></li>
-                            <li><a href="#">Weaving</a></li>
-                            <li><a href="#">Dyeing, Printing & finishing</a></li>
-                            <li class="dropdown"><a href="#"><span>Fashion</span> <i
+                            <li><a href="yazdbaf_spinning.php">Spinning</a></li>
+                            <li><a href="yazdbaf_weaving.php">Weaving</a></li>
+                            <li><a href="yazdbaf_dyeing.php">Dyeing, Printing & finishing</a></li>
+                            <!--<li class="dropdown"><a href="#"><span>Fashion</span> <i
                                             class="bi bi-chevron-right"></i></a>
                                 <ul>
                                     <li><a href="#">Yazdbaf Store</a></li>
                                 </ul>
-                            </li>
+                            </li>-->
                         </ul>
                     </li>
-                    <li><a href="#">Gallery</a></li>
+                    <li><a href="yazdbaf_gallery.php">Gallery</a></li>
                 </ul>
             </li>
             <li><a class="nav-link scrollto" href="https://tanjameh.com" target="_blank">Online Store</a></li>

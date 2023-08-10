@@ -190,6 +190,14 @@
             </div>
         </div>
     </section>--><!-- End Features Section -->
+    <section id="cta" class="cta what_we_do">
+        <div class="container" data-aos="zoom-in">
+            <div class="text-center">
+                <h4><a href="b2b.php">B2B Services : Unlocking Business Opportunities</a></h4>
+                <p>Representing Yazdbaf Company, we offer wholesale distribution, procuring essential supplies like zippers, chemicals, cotton, and raw materials for businesses.</p>
+            </div>
+        </div>
+    </section><!-- End Cta Section -->
     <!-- ======= Services2 Section ======= -->
     <section id="services2" class="services">
         <div class="container" data-aos="fade-up">
@@ -230,15 +238,6 @@
                 </div>
         </div>
     </section><!-- End Services Section -->
-    <section id="cta" class="cta what_we_do">
-        <div class="container" data-aos="zoom-in">
-            <div class="text-center">
-                <h4><a href="b2b.php">B2B Services : Unlocking Business Opportunities</a></h4>
-                <p>Representing Yazdbaf Company, we offer wholesale distribution, procuring essential supplies like zippers, chemicals, cotton, and raw materials for businesses.</p>
-            </div>
-        </div>
-    </section><!-- End Cta Section -->
-
     <!-- ======= Cta Section ======= -->
     <!--<section id="cta" class="cta">
         <div class="container" data-aos="zoom-in">
@@ -690,9 +689,9 @@
                         <div class="phone">
                             <i class="bi bi-phone"></i>
                             <h4>Call:</h4>
-                            <p><a style="color: black; text-decoration: none;" href="tel:+44 (0) 20 8133 3533">+44 (0)
+                            <p><a style="color: black; text-decoration: none;" href="tel:+4420 8133 3533">+44 (0)
                                     20 8133 3533</a></p>
-                            <p><a style="color: black; text-decoration: none;" href="tel:+44 (0) 1707827938">+44 (0)
+                            <p><a style="color: black; text-decoration: none;" href="tel:+441707827938">+44 (0)
                                     1707827938</a></p>
                         </div>
 
