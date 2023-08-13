@@ -21,23 +21,48 @@
                     echo " active ";
                 }
                 ?>"href="who_we_are.php">Who we are?</a></li>
+            <li class="dropdown"><a href="#" class="<?php
+                $url = $_SERVER['REQUEST_URI'];
+                if (strpos($url, 'yazdbaf_') !== false or strpos($url, 'yazd_city') !== false) {
+                    echo " active ";
+                }
+                ?>"><span>Yazdbaf Co.</span> <i class="bi bi-chevron-down"></i></a>
+                <ul>
+                    <li><a href="yazdbaf_co.php">Yazdbaf Co.</a></li>
+                    <li><a href="yazd_city.php">Yazd City</a></li>
+                    <!--<li class="dropdown"><a href="#"><span>Products</span> <i class="bi bi-chevron-right"></i></a>
+                        <ul>
+                            <li><a href="yazdbaf_spinning.php">Spinning</a></li>
+                            <li><a href="yazdbaf_weaving.php">Weaving</a></li>
+                            <li><a href="yazdbaf_dyeing.php">Dyeing, Printing & finishing</a></li>
+                            <!-<li class="dropdown"><a href="#"><span>Fashion</span> <i
+                                            class="bi bi-chevron-right"></i></a>
+                                <ul>
+                                    <li><a href="#">Yazdbaf Store</a></li>
+                                </ul>
+                            </li>->
+                        </ul>
+                    </li>-->
+                    <li><a href="yazdbaf_gallery.php">Gallery</a></li>
+                </ul>
+            </li>
+            <li><a href="what_we_do.php" class="<?php
+                               $url = $_SERVER['REQUEST_URI'];
+                                if (strpos($url, 'what_we_do.php') !== false) {
+                                    echo " active ";
+                                }
+                                ?>">what we do?</a></li>
             <!--<li><a class="nav-link scrollto" href="#services">Services</a></li>
             <li><a class="nav-link scrollto " href="#portfolio">Portfolio</a></li>
             <li><a class="nav-link scrollto" href="#team">Team</a></li>-->
-            <li class="dropdown"><a href="what_we_do.php" class="<?php
-                $url = $_SERVER['REQUEST_URI'];
+            <!--<li class="dropdown"><a href="what_we_do.php" class="<?php
+/*                $url = $_SERVER['REQUEST_URI'];
                 if (strpos($url, 'what_we_do.php') !== false or strpos($url, 'b2b.php') !== false or strpos($url, 'tanjameh_com.php')  !== false or strpos($url, 'tanjameh_look.php') !== false or strpos($url, 'tanjameh_lounge.php') !== false) {
                     echo " active ";
                 }
-                ?>"><span>what we do</span> <i class="bi bi-chevron-down"></i></a>
+                */?>"><span>what we do</span> <i class="bi bi-chevron-down"></i></a>
                 <ul>
-                    <li class="dropdown"><a href="b2b.php"><span>B2B</span></a></li>
-                    <!--<li class="dropdown"><a href="#"><span>B2B</span> <i class="bi bi-chevron-right"></i></a>
-                        <ul>
-                            <li><a href="#">procurement</a></li>
-                            <li><a href="#">Wholesale</a></li>
-                        </ul>
-                    </li>-->
+                    <li><a href="b2b.php">B2B</a></li>
                     <li class="dropdown"><a href="#"><span>B2C</span> <i class="bi bi-chevron-right"></i></a>
                         <ul>
                             <li><a href="tanjameh_com.php">Tanjameh.com</a></li>
@@ -46,34 +71,10 @@
                         </ul>
                     </li>
                 </ul>
-            </li>
-            <li class="dropdown"><a href="yazdbaf_co.php" class="<?php
-                $url = $_SERVER['REQUEST_URI'];
-                if (strpos($url, 'yazdbaf_') !== false) {
-                    echo " active ";
-                }
-                ?>"><span>Yazdbaf Co.</span> <i class="bi bi-chevron-down"></i></a>
-                <ul>
-                    <li class="dropdown"><a href="yazdbaf_yazd_city.php"><span>Yazd City</span></a></li>
-                    <li class="dropdown"><a href="#"><span>Products</span> <i class="bi bi-chevron-right"></i></a>
-                        <ul>
-                            <li><a href="yazdbaf_spinning.php">Spinning</a></li>
-                            <li><a href="yazdbaf_weaving.php">Weaving</a></li>
-                            <li><a href="yazdbaf_dyeing.php">Dyeing, Printing & finishing</a></li>
-                            <!--<li class="dropdown"><a href="#"><span>Fashion</span> <i
-                                            class="bi bi-chevron-right"></i></a>
-                                <ul>
-                                    <li><a href="#">Yazdbaf Store</a></li>
-                                </ul>
-                            </li>-->
-                        </ul>
-                    </li>
-                    <li><a href="yazdbaf_gallery.php">Gallery</a></li>
-                </ul>
-            </li>
+            </li>-->
+            <li><a class="nav-link scrollto" href="index.php#contact">Where we are?</a></li>
             <li><a class="nav-link scrollto" href="https://tanjameh.com" target="_blank">Online Store</a></li>
-            <li><a class="nav-link scrollto" href="index.php#about">About Us</a></li>
-            <li><a class="nav-link scrollto" href="index.php#contact">Contact Us</a></li>
+            <!--<li><a class="nav-link scrollto" href="index.php#about">About Us</a></li>-->
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
     </nav><!-- .navbar -->

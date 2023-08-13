@@ -97,12 +97,15 @@
     <section id="about" class="about">
         <div class="container" data-aos="fade-up">
             <div class="row">
+                <div class="section-title" style="padding-bottom: 15px;">
+                    <h2>About</h2>
+                    <p>About Us</p>
+                </div>
                 <div class="col-lg-6 order-1 order-lg-2" data-aos="fade-left" data-aos-delay="100">
-                    <img style="margin-top: 45px;" src="assets/img/tanjameh_ltd.jpg" class="img-fluid" alt="">
+                    <img src="assets/img/tanjameh_ltd.jpg" class="img-fluid" alt="">
                 </div>
                 <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-right"
                      data-aos-delay="100">
-                    <h3>About Us</h3>
                     <p style="text-align: justify;">
                         Tanjameh Ltd proudly serves as the official representative of Yazdbaf Textile Company (PLT) in
                         the United Kingdom. Established on May 30, 2018, our company has been entrusted with the
@@ -141,12 +144,15 @@
     <!-- ======= Clients Section ======= -->
     <section id="clients" class="clients">
         <div class="container" data-aos="zoom-in">
-
+            <!--<div class="section-title" style="padding-bottom: 15px;">
+                <h2>Partners</h2>
+                <p>Partner</p>
+            </div>-->
             <div class="clients-slider swiper">
                 <div class="swiper-wrapper align-items-center">
                     <div class="swiper-slide"><img src="assets/img/clients/yazdbaf.png" class="img-fluid" alt=""></div>
                     <div class="swiper-slide"><img src="assets/img/clients/iranpost.png" class="img-fluid" alt=""></div>
-                    <div class="swiper-slide"><img src="assets/img/clients/Royal_Mail.png" class="img-fluid" alt=""></div>
+                    <div class="swiper-slide"><img src="assets/img/clients/dhl.png" class="img-fluid" alt=""></div>
                     <div class="swiper-slide"><img src="assets/img/clients/Royal-Mail-Logo.png" class="img-fluid" alt=""></div>
                     <div class="swiper-slide"><img src="assets/img/clients/sep.png" class="img-fluid" alt=""></div>
                     <!--<div class="swiper-slide"><img src="assets/img/clients/client-6.png" class="img-fluid" alt=""></div>
@@ -201,7 +207,6 @@
     <!-- ======= Services2 Section ======= -->
     <section id="services2" class="services">
         <div class="container" data-aos="fade-up">
-
             <div class="section-title">
                 <h2>Services</h2>
                 <p>B2C Marketplace</p>
@@ -211,16 +216,16 @@
                 <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
                     <div class="icon-box">
                         <div class="icon"><i class="bx bxl-dribbble"></i></div>
-                        <h4><a href="tanjameh_com.php">Tanjameh.com</a></h4>
-                        <p>Discover your ultimate fashion destination at Tanjameh.com! We curate a diverse range of fashion and lifestyle products, bringing the best of the UK to Iran and the Middle East. Whether you're looking for trendy clothing, stylish footwear, chic accessories, or beauty essentials, our platform has it all. With a user-friendly interface and personalized recommendations, shopping with us is a breeze!</p>
+                        <h4><a href="b2c.php">Tanjameh.com</a></h4>
+                        <p>Discover your ultimate fashion destination at <a href="https://tanjameh.com">Tanjameh.com!</a> We curate a diverse range of fashion and lifestyle products, bringing the best of the UK to Iran and the Middle East. Whether you're looking for trendy clothing, stylish footwear, chic accessories, or beauty essentials, our platform has it all. With a user-friendly interface and personalized recommendations, shopping with us is a breeze!</p>
                     </div>
                 </div>
 
                 <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in"
                      data-aos-delay="200">
                     <div class="icon-box">
-                        <div class="icon"><i class="bx bx-file"></i></div>
-                        <h4><a href="tanjameh_lounge.php">Tanjameh Lounge</a></h4>
+                        <div class="icon"><img src="assets/img/marketplace.png" style="width:32px;"/></div>
+                        <h4><a href="b2c.php">Tanjameh Lounge</a></h4>
                         <p>Welcome to Tanjameh Lounge, where we empower businesses to shine on our bustling platform. This section allows other brands and businesses to showcase and sell their unique items, expanding their reach to a wider audience. Join us in fostering a thriving community of creative entrepreneurs, offering customers a richer and more diverse shopping experience. Together, we'll redefine the fashion landscape and create new opportunities for success!</p>
                     </div>
                 </div>
@@ -228,9 +233,9 @@
                 <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0" data-aos="zoom-in"
                      data-aos-delay="300">
                     <div class="icon-box">
-                        <div class="icon"><i class="bx bx-tachometer"></i></div>
-                        <h4><a href="tanjameh_look.php">Tanjameh Look</a></h4>
-                        <p>Get inspired on " Tanjameh Look" where models and creators showcase their unique styles, earning commissions from purchases made through their content.
+                        <div class="icon"><img src="assets/img/network.png" style="width:32px;"/></div>
+                        <h4><a href="b2c.php">Tanjameh Look</a></h4>
+                        <p>Get inspired on "Tanjameh Look" where models and creators showcase their unique styles, earning commissions from purchases made through their content.
 
                             At Tanjameh, we take pride in offering seamless experiences, championing ethical practices, and nurturing creativity in the world of fashion and lifestyle. Join us as we redefine the way you shop, connect, and express yourself!
                         </p>
@@ -659,7 +664,7 @@
 
             <div class="section-title">
                 <h2>Contact</h2>
-                <p>Contact Us</p>
+                <p>Where We Are?</p>
             </div>
 
             <div>
@@ -675,7 +680,7 @@
                         <div class="address">
                             <i class="bi bi-geo-alt"></i>
                             <h4>Location:</h4>
-                            <p>Maple House Tanjameh Ltd, Maple House, High Street, Potters Bar, Hertfordshire, England,
+                            <p>Tanjameh Ltd, Maple House, High Street, Potters Bar, Hertfordshire, England,
                                 EN6 5BS</p>
                         </div>
 

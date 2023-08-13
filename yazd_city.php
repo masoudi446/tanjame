@@ -56,7 +56,7 @@
                 <ol>
                     <li><a href="index.php">Home</a></li>
                     <li><a href="yazdbaf_co.php">Yazdbaf Co.</a></li>
-                    <li><a href="yazdbaf_yazd_city.php">Yazd City</a></li>
+                    <li><a href="#">Yazd City</a></li>
                 </ol>
             </div>
 

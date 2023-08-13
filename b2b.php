@@ -52,7 +52,7 @@
         <div class="container">
 
             <div class="d-flex justify-content-between align-items-center">
-                <h2>B2B Services: Unlocking Business Opportunities</h2>
+                <h2>B2B Services</h2>
                 <ol>
                     <li><a href="index.php">Home</a></li>
                     <li><a href="what_we_do.php">What We Do?</a></li>
@@ -62,17 +62,20 @@
 
         </div>
     </section><!-- End Breadcrumbs -->
-
+    <section id="cta" class="cta what_we_do top_image">
+        <div class="container" data-aos="zoom-in">
+            <div class="text-center">
+                <p style="font-size: 30px;">
+                    Unlocking Business Opportunities.
+                </p>
+            </div>
+        </div>
+    </section><!-- End Cta Section -->
     <section class="inner-page">
         <div class="container">
             <!-- ======= Services Section ======= -->
-            <section id="services" class="services">
+            <section id="services" class="services" style="padding: 0px 0px;">
                 <div class="container" data-aos="fade-up">
-
-                    <!--            <div class="section-title">
-                                    <h2>Services</h2>
-                                    <p>Check our Services</p>
-                                </div>-->
 
                     <div class="row">
                         <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
@@ -173,22 +176,31 @@
         </div>
     </section><!-- End Cta Section -->
 
-
     <!-- ======= Features Section ======= -->
-    <section id="features" class="features b2b">
+    <section id="features" class="features">
         <div class="container" data-aos="fade-up">
             <div class="row">
-                <h3>Successful Stories for B2B businesses</h3>
-                <!--<div class="image col-lg-6" style='background-image: url("assets/img/features.jpg");'
-                     data-aos="fade-right"></div>-->
-                <div class="col-lg-12" data-aos="fade-left" data-aos-delay="100">
+                <div class="image col-lg-6" style='background-image: url("assets/img/cotton.jpg");'
+                     data-aos="fade-right"></div>
+                <div class="col-lg-6" data-aos="fade-left" data-aos-delay="100">
                     <div class="icon-box mt-5 mt-lg-0" data-aos="zoom-in" data-aos-delay="150">
-                        <i class="bx bx-receipt"></i>
+                        <i class="bx bx-check-double"></i>
                         <h4>Cotton Quest: Unearthing Reliable Suppliers on Our Global Journey</h4>
                         <p>Embarking on a travel adventure to India in 2018 and Tajikistan in 2019, we discovered suppliers who would become valuable partners for Yazdbaf and our future endeavors. Our quest led us to find good, reliable sources of cotton, and we wasted no time in securing direct purchases. With the aim to benefit manufacturers in Iran, we expanded our offerings through Yazdbaf, enabling us to cater to clients not only in Europe but across the globe. Cotton, the fabric of our success, threads its way through our journey, promising unrivaled quality and style to fashion enthusiasts worldwide.</p>
                     </div>
-                    <div class="icon-box mt-5" data-aos="zoom-in" data-aos-delay="150">
-                        <i class="bx bx-cube-alt"></i>
+                </div>
+            </div>
+        </div>
+    </section><!-- End Features Section -->
+    <!-- ======= Features Section ======= -->
+    <section id="features" class="features">
+        <div class="container" data-aos="fade-up">
+            <div class="row">
+                <div class="image col-lg-6" style='background-image: url("assets/img/Textile-Chemicals.jpeg");'
+                     data-aos="fade-right"></div>
+                <div class="col-lg-6" data-aos="fade-left" data-aos-delay="100">
+                    <div class="icon-box mt-5 mt-lg-0" data-aos="zoom-in" data-aos-delay="150">
+                        <i class="bx bx-check-double"></i>
                         <h4>Chemical Connections: Unleashing Possibilities on Our Fashion Frontier</h4>
                         <p>As we ventured into the chemical domain, our journey led us to forge a fruitful collaboration with POLYSISTEC, a leading chemical supplier. Becoming their trusted seller in Iran, we unlocked a treasure trove of premium chemicals that would elevate our fashion and lifestyle offerings. The partnership sparked creativity and innovation, fueling our commitment to deliver excellence to our customers.
                             Empowered by POLYSISTEC's chemical solutions, we envisioned a future where our fashion empire would know no bounds. Inspired to explore further, we set our sights on other renowned brands, such as Airedale Chemical Company. The prospect of combining their expertise with our passion for fashion ignited new possibilities, and negotiations were set in motion.
@@ -197,18 +209,51 @@
                             As we blend art and science in this chemical voyage, our commitment to delivering excellence remains unwavering. Together with our valued partners, we chart a course towards a future of endless possibilities, where the allure of fashion and the power of chemistry converge in harmony.
                         </p>
                     </div>
-                    <div class="icon-box mt-5" data-aos="zoom-in" data-aos-delay="150">
-                        <i class="bx bx-images"></i>
+                </div>
+            </div>
+        </div>
+    </section><!-- End Features Section -->
+    <!-- ======= Features Section ======= -->
+    <section id="features" class="features">
+        <div class="container" data-aos="fade-up">
+            <div class="row">
+                <div class="image col-lg-6" style='background-image: url("assets/img/fashion.jpg");'
+                     data-aos="fade-right"></div>
+                <div class="col-lg-6" data-aos="fade-left" data-aos-delay="100">
+                    <div class="icon-box mt-5 mt-lg-0" data-aos="zoom-in" data-aos-delay="150">
+                        <i class="bx bx-check-double"></i>
                         <h4>Unveiling Fashion's Finest: Tanjameh's Strategic Pursuit of Trends and Technical Advancements</h4>
                         <p>In our pursuit of staying at the forefront of the fashion and textile industry, Tanjameh ventured into a strategic collaboration with renowned brands like Diesel, Levi's, Needle and Thread, luxury items from Harrods, and iconic fashion houses Gucci and Saint Laurent. While not official partners, we obtained samples and valuable technical information to keep our valued partner, Yazdbaf, on track with the latest trends and advancements in the world of fashion and textiles. By leveraging these insights, we ensure that Yazdbaf remains at the cutting edge of creativity and innovation, offering our customers the finest and most up-to-date fashion selections. Our dedication to excellence drives us to continually seek new improvements and inspirations in the ever-evolving realm of fashion.</p>
                     </div>
-                    <div class="icon-box mt-5" data-aos="zoom-in" data-aos-delay="150">
-                        <i class="bx bx-shield"></i>
+                </div>
+            </div>
+        </div>
+    </section><!-- End Features Section -->
+    <!-- ======= Features Section ======= -->
+    <section id="features" class="features">
+        <div class="container" data-aos="fade-up">
+            <div class="row">
+                <div class="image col-lg-6" style='background-image: url("assets/img/ykk.jpeg");'
+                     data-aos="fade-right"></div>
+                <div class="col-lg-6" data-aos="fade-left" data-aos-delay="100">
+                    <div class="icon-box mt-5 mt-lg-0" data-aos="zoom-in" data-aos-delay="150">
+                        <i class="bx bx-check-double"></i>
                         <h4>A Tale of Reliability and Collaboration: The YKK Connection</h4>
                         <p>In the dynamic world of fashion, Tanjameh found a reliable partner in YKK, renowned suppliers of zippers and buttons. Embracing YKK's commitment to excellence, Tanjameh proudly sources their exquisite zippers from this trusted collaboration, elevating their creations with every stitch. Since the beginning of their partnership, YKK's impeccable craftsmanship has seamlessly woven into Tanjameh's fashion journey, shaping the future of elegance and style.</p>
                     </div>
-                    <div class="icon-box mt-5" data-aos="zoom-in" data-aos-delay="150">
-                        <i class="bx bx-shield"></i>
+                </div>
+            </div>
+        </div>
+    </section><!-- End Features Section -->
+    <!-- ======= Features Section ======= -->
+    <section id="features" class="features">
+        <div class="container" data-aos="fade-up">
+            <div class="row">
+                <div class="image col-lg-6" style='background-image: url("assets/img/amazon.jpg");'
+                     data-aos="fade-right"></div>
+                <div class="col-lg-6" data-aos="fade-left" data-aos-delay="100">
+                    <div class="icon-box mt-5 mt-lg-0" data-aos="zoom-in" data-aos-delay="150">
+                        <i class="bx bx-check-double"></i>
                         <h4>Tanjameh's Fashion Journey: Elevating Elegance on the Amazon Marketplace</h4>
                         <p>In pursuit of expanding their fashion empire, Tanjameh set their sights on the Amazon marketplace. With anticipation and dedication, they showcased their exquisite creations to a global audience. As orders poured in and positive reviews flowed, their brand soared to new heights. This partnership marked the beginning of a remarkable journey, where Tanjameh's elegance and style continue to enchant customers worldwide, one Amazon sale at a time.</p>
                     </div>
@@ -216,6 +261,7 @@
             </div>
         </div>
     </section><!-- End Features Section -->
+
 
 
 </main><!-- End #main -->

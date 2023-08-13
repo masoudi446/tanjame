@@ -83,7 +83,7 @@
                             <div class="icon-box mt-5 mt-lg-0" data-aos="zoom-in" data-aos-delay="150">
                                 <i class="bx bxs-badge-check"></i>
                                 <h4>B2B Services</h4>
-                                <p>As a representative of Yazdbaf Company, we offer comprehensive B2B services that facilitate seamless business transactions and supply chain solutions. Through our B2B services, we serve as a trusted link between brands and businesses, ensuring a smooth flow of wholesale distribution and procurement of essential supplies such as zippers, chemicals, cotton, and raw materials. Our strategic partnerships with Yazdbaf Company enable us to offer tailored solutions to businesses in various industries, supporting their growth and success.</p>
+                                <p>As a representative of Yazdbaf Company, we offer comprehensive B2B services that facilitate seamless business transactions and supply chain solutions. Through our B2B services, we serve as a trusted link between brands and businesses, ensuring a smooth flow of wholesale distribution and procurement of essential supplies such as zippers, chemicals, cotton, and raw materials. Our strategic partnerships with Yazdbaf Company enable us to offer tailored solutions to businesses in various industries, supporting their growth and success. <a href="b2b.php">Read More...</a></p>
                             </div>
                         </div>
                     </div>
@@ -103,7 +103,7 @@
 
                                     Additionally, our "Lounge" section extends our B2C services by empowering other businesses to join our bustling platform. Through Tanjameh Lounge, brands and businesses can showcase and sell their unique items, expanding their reach to a wider audience and tapping into the diverse Tanjameh community.<br>
 
-                                    Whether you're a fashion enthusiast looking for the latest trends or a business seeking reliable B2B solutions, Tanjameh has you covered. With our commitment to quality, customer satisfaction, and fostering meaningful connections, we continuously strive to redefine the fashion and lifestyle landscape for all.<br>
+                                    Whether you're a fashion enthusiast looking for the latest trends or a business seeking reliable B2B solutions, Tanjameh has you covered. With our commitment to quality, customer satisfaction, and fostering meaningful connections, we continuously strive to redefine the fashion and lifestyle landscape for all. <a href="b2c.php">Read More...</a><br>
                                 </p>
                             </div>
                         </div>

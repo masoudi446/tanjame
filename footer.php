@@ -8,7 +8,7 @@
                     <div class="footer-info">
                         <h3>Tanjameh<span>.</span></h3>
                         <p>
-                            Maple House Tanjameh Ltd, <br>
+                            Tanjameh Ltd, <br>
                             Maple House, <br>
                             High Street, Potters Bar, <br>
                             Hertfordshire, England, EN6 5BS<br><br>
