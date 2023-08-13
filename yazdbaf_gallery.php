@@ -99,6 +99,21 @@
                      </div>
                  </div>
 
+                 <div class="col-lg-4 col-md-6 portfolio-item filter-old">
+                     <div class="portfolio-wrap">
+                         <img src="assets/img/portfolio/gallery old.jpg" class="img-fluid" alt="">
+                         <div class="portfolio-info">
+                             <h4>Old</h4>
+                             <!--<p>Web</p>-->
+                             <div class="portfolio-links">
+                                 <a href="assets/img/portfolio/gallery old.jpg" data-gallery="portfolioGallery"
+                                    class="portfolio-lightbox" title="Old"><i class="bx bx-plus"></i></a>
+                                 <!--<a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>-->
+                             </div>
+                         </div>
+                     </div>
+                 </div>
+
                  <div class="col-lg-4 col-md-6 portfolio-item filter-weaving">
                      <div class="portfolio-wrap">
                          <img src="assets/img/portfolio/weaving.jpg" class="img-fluid" alt="">
@@ -138,6 +153,141 @@
                              <div class="portfolio-links">
                                  <a href="assets/img/portfolio/yazdbaf fashion.jpg" data-gallery="portfolioGallery"
                                     class="portfolio-lightbox" title="Fashion"><i class="bx bx-plus"></i></a>
+                                 <!--<a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>-->
+                             </div>
+                         </div>
+                     </div>
+                 </div>
+
+                 <div class="col-lg-4 col-md-6 portfolio-item filter-spinning">
+                     <div class="portfolio-wrap">
+                         <img src="assets/img/portfolio/cotton cleaning.jpg" class="img-fluid" alt="">
+                         <div class="portfolio-info">
+                             <h4>Spinning</h4>
+                             <!--<p>App</p>-->
+                             <div class="portfolio-links">
+                                 <a href="assets/img/portfolio/cotton cleaning.jpg" data-gallery="portfolioGallery"
+                                    class="portfolio-lightbox" title="Spinning"><i class="bx bx-plus"></i></a>
+                                 <!--<a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>-->
+                             </div>
+                         </div>
+                     </div>
+                 </div>
+
+                 <div class="col-lg-4 col-md-6 portfolio-item filter-old">
+                     <div class="portfolio-wrap">
+                         <img src="assets/img/portfolio/yaz.jpg" class="img-fluid" alt="">
+                         <div class="portfolio-info">
+                             <h4>Old</h4>
+                             <!--<p>Web</p>-->
+                             <div class="portfolio-links">
+                                 <a href="assets/img/portfolio/yaz.jpg" data-gallery="portfolioGallery"
+                                    class="portfolio-lightbox" title="Old"><i class="bx bx-plus"></i></a>
+                                 <!--<a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>-->
+                             </div>
+                         </div>
+                     </div>
+                 </div>
+
+                 <div class="col-lg-4 col-md-6 portfolio-item filter-finishing">
+                     <div class="portfolio-wrap">
+                         <img src="assets/img/portfolio/finishing 2.jpg" class="img-fluid" alt="">
+                         <div class="portfolio-info">
+                             <h4>Finishing</h4>
+                             <!--<p>Web</p>-->
+                             <div class="portfolio-links">
+                                 <a href="assets/img/portfolio/finishing 2.jpg" data-gallery="portfolioGallery"
+                                    class="portfolio-lightbox" title="Finishing"><i class="bx bx-plus"></i></a>
+                                 <!--<a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>-->
+                             </div>
+                         </div>
+                     </div>
+                 </div>
+
+                 <div class="col-lg-4 col-md-6 portfolio-item filter-clothing">
+                     <div class="portfolio-wrap">
+                         <img src="assets/img/portfolio/clothes.jpg" class="img-fluid" alt="">
+                         <div class="portfolio-info">
+                             <h4>Clothing</h4>
+                             <!--<p>Web</p>-->
+                             <div class="portfolio-links">
+                                 <a href="assets/img/portfolio/clothes.jpg" data-gallery="portfolioGallery"
+                                    class="portfolio-lightbox" title="Clothing"><i class="bx bx-plus"></i></a>
+                                 <!--<a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>-->
+                             </div>
+                         </div>
+                     </div>
+                 </div>
+
+                 <div class="col-lg-4 col-md-6 portfolio-item filter-finishing">
+                     <div class="portfolio-wrap">
+                         <img src="assets/img/portfolio/finishing 3.jpg" class="img-fluid" alt="">
+                         <div class="portfolio-info">
+                             <h4>Finishing</h4>
+                             <!--<p>Web</p>-->
+                             <div class="portfolio-links">
+                                 <a href="assets/img/portfolio/finishing 3.jpg" data-gallery="portfolioGallery"
+                                    class="portfolio-lightbox" title="Finishing"><i class="bx bx-plus"></i></a>
+                                 <!--<a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>-->
+                             </div>
+                         </div>
+                     </div>
+                 </div>
+
+                 <div class="col-lg-4 col-md-6 portfolio-item filter-dyeing">
+                     <div class="portfolio-wrap">
+                         <img src="assets/img/portfolio/dyeing.jpg" class="img-fluid" alt="">
+                         <div class="portfolio-info">
+                             <h4>Dyeing</h4>
+                             <!--<p>Web</p>-->
+                             <div class="portfolio-links">
+                                 <a href="assets/img/portfolio/dyeing.jpg" data-gallery="portfolioGallery"
+                                    class="portfolio-lightbox" title="Dyeing"><i class="bx bx-plus"></i></a>
+                                 <!--<a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>-->
+                             </div>
+                         </div>
+                     </div>
+                 </div>
+
+                 <div class="col-lg-4 col-md-6 portfolio-item filter-spinning">
+                     <div class="portfolio-wrap">
+                         <img src="assets/img/portfolio/spinning 2.jpg" class="img-fluid" alt="">
+                         <div class="portfolio-info">
+                             <h4>Spinning</h4>
+                             <!--<p>App</p>-->
+                             <div class="portfolio-links">
+                                 <a href="assets/img/portfolio/spinning 2.jpg" data-gallery="portfolioGallery"
+                                    class="portfolio-lightbox" title="Spinning"><i class="bx bx-plus"></i></a>
+                                 <!--<a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>-->
+                             </div>
+                         </div>
+                     </div>
+                 </div>
+
+                 <div class="col-lg-4 col-md-6 portfolio-item filter-old">
+                     <div class="portfolio-wrap">
+                         <img src="assets/img/portfolio/gallery old 2.jpg" class="img-fluid" alt="">
+                         <div class="portfolio-info">
+                             <h4>Old</h4>
+                             <!--<p>Web</p>-->
+                             <div class="portfolio-links">
+                                 <a href="assets/img/portfolio/gallery old 2.jpg" data-gallery="portfolioGallery"
+                                    class="portfolio-lightbox" title="Old"><i class="bx bx-plus"></i></a>
+                                 <!--<a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>-->
+                             </div>
+                         </div>
+                     </div>
+                 </div>
+
+                 <div class="col-lg-4 col-md-6 portfolio-item filter-finishing">
+                     <div class="portfolio-wrap">
+                         <img src="assets/img/portfolio/finishing 4.jpg" class="img-fluid" alt="">
+                         <div class="portfolio-info">
+                             <h4>Finishing</h4>
+                             <!--<p>Web</p>-->
+                             <div class="portfolio-links">
+                                 <a href="assets/img/portfolio/finishing 4.jpg" data-gallery="portfolioGallery"
+                                    class="portfolio-lightbox" title="Finishing"><i class="bx bx-plus"></i></a>
                                  <!--<a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>-->
                              </div>
                          </div>
