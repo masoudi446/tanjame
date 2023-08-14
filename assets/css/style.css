@@ -782,7 +782,7 @@ section {
 }
 
 .cta.thanks_who_we_are {
-    background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url("../img/tanjameh_ltd.jpg") fixed center center;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/tanjameh_ltd.jpg") fixed center bottom;
     background-size: cover;
     padding: 60px 0;
 }
