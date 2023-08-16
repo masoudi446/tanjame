@@ -150,13 +150,13 @@
             </div>-->
             <div class="clients-slider swiper">
                 <div class="swiper-wrapper align-items-center">
-                    <div class="swiper-slide"><img src="assets/img/clients/yazdbaf.png" class="img-fluid" alt=""></div>
-                    <div class="swiper-slide"><img src="assets/img/clients/iranpost.png" class="img-fluid" alt=""></div>
-                    <div class="swiper-slide"><img src="assets/img/clients/dhl.png" class="img-fluid" alt=""></div>
-                    <div class="swiper-slide"><img src="assets/img/clients/Royal-Mail-Logo.png" class="img-fluid" alt=""></div>
-                    <div class="swiper-slide"><img src="assets/img/clients/sep.png" class="img-fluid" alt=""></div>
-                    <!--<div class="swiper-slide"><img src="assets/img/clients/client-6.png" class="img-fluid" alt=""></div>
-                    <div class="swiper-slide"><img src="assets/img/clients/client-7.png" class="img-fluid" alt=""></div>
+                    <div class="swiper-slide"><img src="assets/img/clients/yazdbaf.png" class="img-fluid" alt="yazdbaf_logo"></div>
+                    <div class="swiper-slide"><img src="assets/img/clients/iranpost.png" class="img-fluid" alt="iranpost_logo"></div>
+                    <div class="swiper-slide"><img src="assets/img/clients/dhl.png" class="img-fluid" alt="dhl-logo"></div>
+                    <div class="swiper-slide"><img src="assets/img/clients/Royal-Mail-Logo.png" class="img-fluid" alt="royal mail_logo"></div>
+                    <div class="swiper-slide"><img src="assets/img/clients/sep.png" class="img-fluid" alt="samankish_logo"></div>
+                    <div class="swiper-slide"><img src="assets/img/clients/paypal.png" class="img-fluid" alt="paypal-logo"></div>
+                    <!--<div class="swiper-slide"><img src="assets/img/clients/client-7.png" class="img-fluid" alt=""></div>
                     <div class="swiper-slide"><img src="assets/img/clients/client-8.png" class="img-fluid" alt=""></div>-->
                 </div>
                 <div class="swiper-pagination"></div>
