@@ -102,7 +102,10 @@
                     <p>About Us</p>
                 </div>
                 <div class="col-lg-6 order-1 order-lg-2" data-aos="fade-left" data-aos-delay="100">
-                    <img src="assets/img/tanjameh_ltd.jpg" class="img-fluid" alt="">
+                    <figure style="margin: 0;">
+                        <img src="assets/img/tanjameh_ltd.jpg" class="img-fluid" alt="Tanjameh's Home: Maple House">
+                        <figcaption style="text-align: center; margin-top:7px; font-size: 13px; ">"Tanjameh's Home: Maple House"</figcaption>
+                    </figure>
                 </div>
                 <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-right"
                      data-aos-delay="100">
@@ -150,12 +153,18 @@
             </div>-->
             <div class="clients-slider swiper">
                 <div class="swiper-wrapper align-items-center">
-                    <div class="swiper-slide"><img src="assets/img/clients/yazdbaf.png" class="img-fluid" alt="yazdbaf_logo"></div>
-                    <div class="swiper-slide"><img src="assets/img/clients/iranpost.png" class="img-fluid" alt="iranpost_logo"></div>
-                    <div class="swiper-slide"><img src="assets/img/clients/dhl.png" class="img-fluid" alt="dhl-logo"></div>
-                    <div class="swiper-slide"><img src="assets/img/clients/Royal-Mail-Logo.png" class="img-fluid" alt="royal mail_logo"></div>
-                    <div class="swiper-slide"><img src="assets/img/clients/sep.png" class="img-fluid" alt="samankish_logo"></div>
-                    <div class="swiper-slide"><img src="assets/img/clients/paypal.png" class="img-fluid" alt="paypal-logo"></div>
+                    <div class="swiper-slide"><img src="assets/img/clients/yazdbaf.png" class="img-fluid"
+                                                   alt="yazdbaf_logo"></div>
+                    <div class="swiper-slide"><img src="assets/img/clients/iranpost.png" class="img-fluid"
+                                                   alt="iranpost_logo"></div>
+                    <div class="swiper-slide"><img src="assets/img/clients/dhl.png" class="img-fluid" alt="dhl-logo">
+                    </div>
+                    <div class="swiper-slide"><img src="assets/img/clients/Royal-Mail-Logo.png" class="img-fluid"
+                                                   alt="royal mail_logo"></div>
+                    <div class="swiper-slide"><img src="assets/img/clients/sep.png" class="img-fluid"
+                                                   alt="samankish_logo"></div>
+                    <div class="swiper-slide"><img src="assets/img/clients/paypal.png" class="img-fluid"
+                                                   alt="paypal-logo"></div>
                     <!--<div class="swiper-slide"><img src="assets/img/clients/client-7.png" class="img-fluid" alt=""></div>
                     <div class="swiper-slide"><img src="assets/img/clients/client-8.png" class="img-fluid" alt=""></div>-->
                 </div>
@@ -184,17 +193,20 @@
                     <div class="icon-box mt-5" data-aos="zoom-in" data-aos-delay="150">
                         <img src="assets/img/icons/Creating Connections.png" style="width:50px; float: left;"/>
                         <h4>Creating Connections</h4>
-                        <p>We bridge the gap between brands, partners, and customers, fostering relationships that redefine the industry.</p>
+                        <p>We bridge the gap between brands, partners, and customers, fostering relationships that
+                            redefine the industry.</p>
                     </div>
                     <div class="icon-box mt-5" data-aos="zoom-in" data-aos-delay="150">
                         <img src="assets/img/icons/Unveiling Possibilities.png" style="width:50px;float: left;"/>
                         <h4>Unveiling Possibilities</h4>
-                        <p>Discover a world of endless possibilities as we redefine the way you experience fashion and lifestyle.</p>
+                        <p>Discover a world of endless possibilities as we redefine the way you experience fashion and
+                            lifestyle.</p>
                     </div>
                     <div class="icon-box mt-5" data-aos="zoom-in" data-aos-delay="150">
                         <img src="assets/img/icons/handcraft (1).png" style="width:50px; float: left;"/>
                         <h4>Crafted for You</h4>
-                        <p>Every step we take is dedicated to providing you with exceptional products, services, and experiences.</p>
+                        <p>Every step we take is dedicated to providing you with exceptional products, services, and
+                            experiences.</p>
                     </div>
                 </div>
             </div>
@@ -204,7 +216,8 @@
         <div class="container" data-aos="zoom-in">
             <div class="text-center">
                 <h4><a href="b2b.php">B2B Services : Unlocking Business Opportunities</a></h4>
-                <p>Representing Yazdbaf Company, we offer wholesale distribution, procuring essential supplies like zippers, chemicals, cotton, and raw materials for businesses.</p>
+                <p>Representing Yazdbaf Company, we offer wholesale distribution, procuring essential supplies like
+                    zippers, chemicals, cotton, and raw materials for businesses.</p>
             </div>
         </div>
     </section><!-- End Cta Section -->
@@ -221,7 +234,12 @@
                     <div class="icon-box">
                         <div class="icon"><img src="assets/img/icons/Tanjameh website.png" style="width:45px;"/></div>
                         <h4><a href="b2c.php">Tanjameh.com</a></h4>
-                        <p>Discover your ultimate fashion destination at <a href="https://tanjameh.com">Tanjameh.com!</a> We curate a diverse range of fashion and lifestyle products, bringing the best of the UK to Iran and the Middle East. Whether you're looking for trendy clothing, stylish footwear, chic accessories, or beauty essentials, our platform has it all. With a user-friendly interface and personalized recommendations, shopping with us is a breeze!</p>
+                        <p>Discover your ultimate fashion destination at <a
+                                    href="https://tanjameh.com">Tanjameh.com!</a> We curate a diverse range of fashion
+                            and lifestyle products, bringing the best of the UK to Iran and the Middle East. Whether
+                            you're looking for trendy clothing, stylish footwear, chic accessories, or beauty
+                            essentials, our platform has it all. With a user-friendly interface and personalized
+                            recommendations, shopping with us is a breeze!</p>
                     </div>
                 </div>
 
@@ -230,7 +248,11 @@
                     <div class="icon-box">
                         <div class="icon"><img src="assets/img/icons/marketplace.png" style="width:45px;"/></div>
                         <h4><a href="b2c.php">Tanjameh Lounge</a></h4>
-                        <p>Welcome to Tanjameh Lounge, where we empower businesses to shine on our bustling platform. This section allows other brands and businesses to showcase and sell their unique items, expanding their reach to a wider audience. Join us in fostering a thriving community of creative entrepreneurs, offering customers a richer and more diverse shopping experience. Together, we'll redefine the fashion landscape and create new opportunities for success!</p>
+                        <p>Welcome to Tanjameh Lounge, where we empower businesses to shine on our bustling platform.
+                            This section allows other brands and businesses to showcase and sell their unique items,
+                            expanding their reach to a wider audience. Join us in fostering a thriving community of
+                            creative entrepreneurs, offering customers a richer and more diverse shopping experience.
+                            Together, we'll redefine the fashion landscape and create new opportunities for success!</p>
                     </div>
                 </div>
 
@@ -239,13 +261,16 @@
                     <div class="icon-box">
                         <div class="icon"><img src="assets/img/icons/network.png" style="width:45px;"/></div>
                         <h4><a href="b2c.php">Tanjameh Look</a></h4>
-                        <p>Get inspired on "Tanjameh Look" where models and creators showcase their unique styles, earning commissions from purchases made through their content.
+                        <p>Get inspired on "Tanjameh Look" where models and creators showcase their unique styles,
+                            earning commissions from purchases made through their content.
 
-                            At Tanjameh, we take pride in offering seamless experiences, championing ethical practices, and nurturing creativity in the world of fashion and lifestyle. Join us as we redefine the way you shop, connect, and express yourself!
+                            At Tanjameh, we take pride in offering seamless experiences, championing ethical practices,
+                            and nurturing creativity in the world of fashion and lifestyle. Join us as we redefine the
+                            way you shop, connect, and express yourself!
                         </p>
                     </div>
                 </div>
-        </div>
+            </div>
     </section><!-- End Services Section -->
     <!-- ======= Cta Section ======= -->
     <!--<section id="cta" class="cta">
@@ -263,166 +288,166 @@
     </section>--><!-- End Cta Section -->
 
     <!-- ======= Portfolio Section ======= -->
-   <!-- <section id="portfolio" class="portfolio">
-        <div class="container" data-aos="fade-up">
+    <!-- <section id="portfolio" class="portfolio">
+         <div class="container" data-aos="fade-up">
 
-            <div class="section-title">
-                <h2>Portfolio</h2>
-                <p>Check our Portfolio</p>
-            </div>
+             <div class="section-title">
+                 <h2>Portfolio</h2>
+                 <p>Check our Portfolio</p>
+             </div>
 
-            <div class="row" data-aos="fade-up" data-aos-delay="100">
-                <div class="col-lg-12 d-flex justify-content-center">
-                    <ul id="portfolio-flters">
-                        <li data-filter="*" class="filter-active">All</li>
-                        <li data-filter=".filter-app">App</li>
-                        <li data-filter=".filter-card">Card</li>
-                        <li data-filter=".filter-web">Web</li>
-                    </ul>
-                </div>
-            </div>
+             <div class="row" data-aos="fade-up" data-aos-delay="100">
+                 <div class="col-lg-12 d-flex justify-content-center">
+                     <ul id="portfolio-flters">
+                         <li data-filter="*" class="filter-active">All</li>
+                         <li data-filter=".filter-app">App</li>
+                         <li data-filter=".filter-card">Card</li>
+                         <li data-filter=".filter-web">Web</li>
+                     </ul>
+                 </div>
+             </div>
 
-            <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="200">
+             <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="200">
 
-                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-                    <div class="portfolio-wrap">
-                        <img src="assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt="">
-                        <div class="portfolio-info">
-                            <h4>App 1</h4>
-                            <p>App</p>
-                            <div class="portfolio-links">
-                                <a href="assets/img/portfolio/portfolio-1.jpg" data-gallery="portfolioGallery"
-                                   class="portfolio-lightbox" title="App 1"><i class="bx bx-plus"></i></a>
-                                <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                 <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                     <div class="portfolio-wrap">
+                         <img src="assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt="">
+                         <div class="portfolio-info">
+                             <h4>App 1</h4>
+                             <p>App</p>
+                             <div class="portfolio-links">
+                                 <a href="assets/img/portfolio/portfolio-1.jpg" data-gallery="portfolioGallery"
+                                    class="portfolio-lightbox" title="App 1"><i class="bx bx-plus"></i></a>
+                                 <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                             </div>
+                         </div>
+                     </div>
+                 </div>
 
-                <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-                    <div class="portfolio-wrap">
-                        <img src="assets/img/portfolio/portfolio-2.jpg" class="img-fluid" alt="">
-                        <div class="portfolio-info">
-                            <h4>Web 3</h4>
-                            <p>Web</p>
-                            <div class="portfolio-links">
-                                <a href="assets/img/portfolio/portfolio-2.jpg" data-gallery="portfolioGallery"
-                                   class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
-                                <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                 <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+                     <div class="portfolio-wrap">
+                         <img src="assets/img/portfolio/portfolio-2.jpg" class="img-fluid" alt="">
+                         <div class="portfolio-info">
+                             <h4>Web 3</h4>
+                             <p>Web</p>
+                             <div class="portfolio-links">
+                                 <a href="assets/img/portfolio/portfolio-2.jpg" data-gallery="portfolioGallery"
+                                    class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
+                                 <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                             </div>
+                         </div>
+                     </div>
+                 </div>
 
-                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-                    <div class="portfolio-wrap">
-                        <img src="assets/img/portfolio/portfolio-3.jpg" class="img-fluid" alt="">
-                        <div class="portfolio-info">
-                            <h4>App 2</h4>
-                            <p>App</p>
-                            <div class="portfolio-links">
-                                <a href="assets/img/portfolio/portfolio-3.jpg" data-gallery="portfolioGallery"
-                                   class="portfolio-lightbox" title="App 2"><i class="bx bx-plus"></i></a>
-                                <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                 <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                     <div class="portfolio-wrap">
+                         <img src="assets/img/portfolio/portfolio-3.jpg" class="img-fluid" alt="">
+                         <div class="portfolio-info">
+                             <h4>App 2</h4>
+                             <p>App</p>
+                             <div class="portfolio-links">
+                                 <a href="assets/img/portfolio/portfolio-3.jpg" data-gallery="portfolioGallery"
+                                    class="portfolio-lightbox" title="App 2"><i class="bx bx-plus"></i></a>
+                                 <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                             </div>
+                         </div>
+                     </div>
+                 </div>
 
-                <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-                    <div class="portfolio-wrap">
-                        <img src="assets/img/portfolio/portfolio-4.jpg" class="img-fluid" alt="">
-                        <div class="portfolio-info">
-                            <h4>Card 2</h4>
-                            <p>Card</p>
-                            <div class="portfolio-links">
-                                <a href="assets/img/portfolio/portfolio-4.jpg" data-gallery="portfolioGallery"
-                                   class="portfolio-lightbox" title="Card 2"><i class="bx bx-plus"></i></a>
-                                <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                 <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+                     <div class="portfolio-wrap">
+                         <img src="assets/img/portfolio/portfolio-4.jpg" class="img-fluid" alt="">
+                         <div class="portfolio-info">
+                             <h4>Card 2</h4>
+                             <p>Card</p>
+                             <div class="portfolio-links">
+                                 <a href="assets/img/portfolio/portfolio-4.jpg" data-gallery="portfolioGallery"
+                                    class="portfolio-lightbox" title="Card 2"><i class="bx bx-plus"></i></a>
+                                 <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                             </div>
+                         </div>
+                     </div>
+                 </div>
 
-                <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-                    <div class="portfolio-wrap">
-                        <img src="assets/img/portfolio/portfolio-5.jpg" class="img-fluid" alt="">
-                        <div class="portfolio-info">
-                            <h4>Web 2</h4>
-                            <p>Web</p>
-                            <div class="portfolio-links">
-                                <a href="assets/img/portfolio/portfolio-5.jpg" data-gallery="portfolioGallery"
-                                   class="portfolio-lightbox" title="Web 2"><i class="bx bx-plus"></i></a>
-                                <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                 <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+                     <div class="portfolio-wrap">
+                         <img src="assets/img/portfolio/portfolio-5.jpg" class="img-fluid" alt="">
+                         <div class="portfolio-info">
+                             <h4>Web 2</h4>
+                             <p>Web</p>
+                             <div class="portfolio-links">
+                                 <a href="assets/img/portfolio/portfolio-5.jpg" data-gallery="portfolioGallery"
+                                    class="portfolio-lightbox" title="Web 2"><i class="bx bx-plus"></i></a>
+                                 <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                             </div>
+                         </div>
+                     </div>
+                 </div>
 
-                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-                    <div class="portfolio-wrap">
-                        <img src="assets/img/portfolio/portfolio-6.jpg" class="img-fluid" alt="">
-                        <div class="portfolio-info">
-                            <h4>App 3</h4>
-                            <p>App</p>
-                            <div class="portfolio-links">
-                                <a href="assets/img/portfolio/portfolio-6.jpg" data-gallery="portfolioGallery"
-                                   class="portfolio-lightbox" title="App 3"><i class="bx bx-plus"></i></a>
-                                <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                 <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                     <div class="portfolio-wrap">
+                         <img src="assets/img/portfolio/portfolio-6.jpg" class="img-fluid" alt="">
+                         <div class="portfolio-info">
+                             <h4>App 3</h4>
+                             <p>App</p>
+                             <div class="portfolio-links">
+                                 <a href="assets/img/portfolio/portfolio-6.jpg" data-gallery="portfolioGallery"
+                                    class="portfolio-lightbox" title="App 3"><i class="bx bx-plus"></i></a>
+                                 <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                             </div>
+                         </div>
+                     </div>
+                 </div>
 
-                <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-                    <div class="portfolio-wrap">
-                        <img src="assets/img/portfolio/portfolio-7.jpg" class="img-fluid" alt="">
-                        <div class="portfolio-info">
-                            <h4>Card 1</h4>
-                            <p>Card</p>
-                            <div class="portfolio-links">
-                                <a href="assets/img/portfolio/portfolio-7.jpg" data-gallery="portfolioGallery"
-                                   class="portfolio-lightbox" title="Card 1"><i class="bx bx-plus"></i></a>
-                                <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                 <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+                     <div class="portfolio-wrap">
+                         <img src="assets/img/portfolio/portfolio-7.jpg" class="img-fluid" alt="">
+                         <div class="portfolio-info">
+                             <h4>Card 1</h4>
+                             <p>Card</p>
+                             <div class="portfolio-links">
+                                 <a href="assets/img/portfolio/portfolio-7.jpg" data-gallery="portfolioGallery"
+                                    class="portfolio-lightbox" title="Card 1"><i class="bx bx-plus"></i></a>
+                                 <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                             </div>
+                         </div>
+                     </div>
+                 </div>
 
-                <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-                    <div class="portfolio-wrap">
-                        <img src="assets/img/portfolio/portfolio-8.jpg" class="img-fluid" alt="">
-                        <div class="portfolio-info">
-                            <h4>Card 3</h4>
-                            <p>Card</p>
-                            <div class="portfolio-links">
-                                <a href="assets/img/portfolio/portfolio-8.jpg" data-gallery="portfolioGallery"
-                                   class="portfolio-lightbox" title="Card 3"><i class="bx bx-plus"></i></a>
-                                <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                 <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+                     <div class="portfolio-wrap">
+                         <img src="assets/img/portfolio/portfolio-8.jpg" class="img-fluid" alt="">
+                         <div class="portfolio-info">
+                             <h4>Card 3</h4>
+                             <p>Card</p>
+                             <div class="portfolio-links">
+                                 <a href="assets/img/portfolio/portfolio-8.jpg" data-gallery="portfolioGallery"
+                                    class="portfolio-lightbox" title="Card 3"><i class="bx bx-plus"></i></a>
+                                 <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                             </div>
+                         </div>
+                     </div>
+                 </div>
 
-                <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-                    <div class="portfolio-wrap">
-                        <img src="assets/img/portfolio/portfolio-9.jpg" class="img-fluid" alt="">
-                        <div class="portfolio-info">
-                            <h4>Web 3</h4>
-                            <p>Web</p>
-                            <div class="portfolio-links">
-                                <a href="assets/img/portfolio/portfolio-9.jpg" data-gallery="portfolioGallery"
-                                   class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
-                                <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                 <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+                     <div class="portfolio-wrap">
+                         <img src="assets/img/portfolio/portfolio-9.jpg" class="img-fluid" alt="">
+                         <div class="portfolio-info">
+                             <h4>Web 3</h4>
+                             <p>Web</p>
+                             <div class="portfolio-links">
+                                 <a href="assets/img/portfolio/portfolio-9.jpg" data-gallery="portfolioGallery"
+                                    class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
+                                 <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                             </div>
+                         </div>
+                     </div>
+                 </div>
 
-            </div>
+             </div>
 
-        </div>
-    </section>--><!-- End Portfolio Section -->
+         </div>
+     </section>--><!-- End Portfolio Section -->
 
     <!-- ======= Counts Section ======= -->
     <!--<section id="counts" class="counts">
@@ -575,92 +600,92 @@
     </section>--><!-- End Testimonials Section -->
 
     <!-- ======= Team Section ======= -->
-  <!--  <section id="team" class="team">
-        <div class="container" data-aos="fade-up">
+    <!--  <section id="team" class="team">
+          <div class="container" data-aos="fade-up">
 
-            <div class="section-title">
-                <h2>Team</h2>
-                <p>Check our Team</p>
-            </div>
+              <div class="section-title">
+                  <h2>Team</h2>
+                  <p>Check our Team</p>
+              </div>
 
-            <div class="row">
+              <div class="row">
 
-                <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-                    <div class="member" data-aos="fade-up" data-aos-delay="100">
-                        <div class="member-img">
-                            <img src="assets/img/team/team-1.jpg" class="img-fluid" alt="">
-                            <div class="social">
-                                <a href=""><i class="bi bi-twitter"></i></a>
-                                <a href=""><i class="bi bi-facebook"></i></a>
-                                <a href=""><i class="bi bi-instagram"></i></a>
-                                <a href=""><i class="bi bi-linkedin"></i></a>
-                            </div>
-                        </div>
-                        <div class="member-info">
-                            <h4>Walter White</h4>
-                            <span>Chief Executive Officer</span>
-                        </div>
-                    </div>
-                </div>
+                  <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+                      <div class="member" data-aos="fade-up" data-aos-delay="100">
+                          <div class="member-img">
+                              <img src="assets/img/team/team-1.jpg" class="img-fluid" alt="">
+                              <div class="social">
+                                  <a href=""><i class="bi bi-twitter"></i></a>
+                                  <a href=""><i class="bi bi-facebook"></i></a>
+                                  <a href=""><i class="bi bi-instagram"></i></a>
+                                  <a href=""><i class="bi bi-linkedin"></i></a>
+                              </div>
+                          </div>
+                          <div class="member-info">
+                              <h4>Walter White</h4>
+                              <span>Chief Executive Officer</span>
+                          </div>
+                      </div>
+                  </div>
 
-                <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-                    <div class="member" data-aos="fade-up" data-aos-delay="200">
-                        <div class="member-img">
-                            <img src="assets/img/team/team-2.jpg" class="img-fluid" alt="">
-                            <div class="social">
-                                <a href=""><i class="bi bi-twitter"></i></a>
-                                <a href=""><i class="bi bi-facebook"></i></a>
-                                <a href=""><i class="bi bi-instagram"></i></a>
-                                <a href=""><i class="bi bi-linkedin"></i></a>
-                            </div>
-                        </div>
-                        <div class="member-info">
-                            <h4>Sarah Jhonson</h4>
-                            <span>Product Manager</span>
-                        </div>
-                    </div>
-                </div>
+                  <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+                      <div class="member" data-aos="fade-up" data-aos-delay="200">
+                          <div class="member-img">
+                              <img src="assets/img/team/team-2.jpg" class="img-fluid" alt="">
+                              <div class="social">
+                                  <a href=""><i class="bi bi-twitter"></i></a>
+                                  <a href=""><i class="bi bi-facebook"></i></a>
+                                  <a href=""><i class="bi bi-instagram"></i></a>
+                                  <a href=""><i class="bi bi-linkedin"></i></a>
+                              </div>
+                          </div>
+                          <div class="member-info">
+                              <h4>Sarah Jhonson</h4>
+                              <span>Product Manager</span>
+                          </div>
+                      </div>
+                  </div>
 
-                <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-                    <div class="member" data-aos="fade-up" data-aos-delay="300">
-                        <div class="member-img">
-                            <img src="assets/img/team/team-3.jpg" class="img-fluid" alt="">
-                            <div class="social">
-                                <a href=""><i class="bi bi-twitter"></i></a>
-                                <a href=""><i class="bi bi-facebook"></i></a>
-                                <a href=""><i class="bi bi-instagram"></i></a>
-                                <a href=""><i class="bi bi-linkedin"></i></a>
-                            </div>
-                        </div>
-                        <div class="member-info">
-                            <h4>William Anderson</h4>
-                            <span>CTO</span>
-                        </div>
-                    </div>
-                </div>
+                  <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+                      <div class="member" data-aos="fade-up" data-aos-delay="300">
+                          <div class="member-img">
+                              <img src="assets/img/team/team-3.jpg" class="img-fluid" alt="">
+                              <div class="social">
+                                  <a href=""><i class="bi bi-twitter"></i></a>
+                                  <a href=""><i class="bi bi-facebook"></i></a>
+                                  <a href=""><i class="bi bi-instagram"></i></a>
+                                  <a href=""><i class="bi bi-linkedin"></i></a>
+                              </div>
+                          </div>
+                          <div class="member-info">
+                              <h4>William Anderson</h4>
+                              <span>CTO</span>
+                          </div>
+                      </div>
+                  </div>
 
-                <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-                    <div class="member" data-aos="fade-up" data-aos-delay="400">
-                        <div class="member-img">
-                            <img src="assets/img/team/team-4.jpg" class="img-fluid" alt="">
-                            <div class="social">
-                                <a href=""><i class="bi bi-twitter"></i></a>
-                                <a href=""><i class="bi bi-facebook"></i></a>
-                                <a href=""><i class="bi bi-instagram"></i></a>
-                                <a href=""><i class="bi bi-linkedin"></i></a>
-                            </div>
-                        </div>
-                        <div class="member-info">
-                            <h4>Amanda Jepson</h4>
-                            <span>Accountant</span>
-                        </div>
-                    </div>
-                </div>
+                  <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+                      <div class="member" data-aos="fade-up" data-aos-delay="400">
+                          <div class="member-img">
+                              <img src="assets/img/team/team-4.jpg" class="img-fluid" alt="">
+                              <div class="social">
+                                  <a href=""><i class="bi bi-twitter"></i></a>
+                                  <a href=""><i class="bi bi-facebook"></i></a>
+                                  <a href=""><i class="bi bi-instagram"></i></a>
+                                  <a href=""><i class="bi bi-linkedin"></i></a>
+                              </div>
+                          </div>
+                          <div class="member-info">
+                              <h4>Amanda Jepson</h4>
+                              <span>Accountant</span>
+                          </div>
+                      </div>
+                  </div>
 
-            </div>
+              </div>
 
-        </div>
-    </section>--><!-- End Team Section -->
+          </div>
+      </section>--><!-- End Team Section -->
 
     <!-- ======= Contact Section ======= -->
     <section id="contact" class="contact">
