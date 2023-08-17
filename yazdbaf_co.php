@@ -161,7 +161,7 @@
                         <div class="row">
                             <div class="col-md-12 d-md-flex align-items-md-stretch">
                                 <div class="count-box">
-                                    <i class="bi bi-emoji-smile"></i>
+                                    <div class="icon"><img src="assets/img/icons/textile.png" style="width:35px; float: left;"/></div>
                                     <span data-purecounter-start="0" data-purecounter-end="360"
                                           data-purecounter-duration="2" class="purecounter"></span>
                                     <p><strong>projectile Sulzer weaving machines</strong>, with a width of
@@ -171,7 +171,7 @@
 
                             <div class="col-md-12 d-md-flex align-items-md-stretch">
                                 <div class="count-box">
-                                    <i class="bi bi-journal-richtext"></i>
+                                    <img src="assets/img/icons/knitting.png" style="width:35px; float: left;"/>
                                     <span data-purecounter-start="0" data-purecounter-end="12"
                                           data-purecounter-duration="2" class="purecounter"></span>
                                     <p><strong>Sulzer Rapier machines</strong>, with a width of <strong>360</strong> cm.
@@ -181,9 +181,9 @@
 
                             <div class="col-md-12 d-md-flex align-items-md-stretch">
                                 <div class="count-box">
-                                    <i class="bi bi-clock"></i>
+                                    <div class="icon"><img src="assets/img/icons/knitting (1).png" style="width:35px; float: left;"/></div>
                                     <span data-purecounter-start="0" data-purecounter-end="71"
-                                          data-purecounter-duration="4" class="purecounter"></span>
+                                          data-purecounter-duration="2" class="purecounter"></span>
                                     <p><strong>Sulzer Rapier machines with dobby</strong>, with a width of
                                         <strong>220</strong> cm.</p>
                                 </div>
@@ -260,7 +260,25 @@
 
         </div>
     </section><!-- End About Section -->
-
+    <!-- ======= About Section ======= -->
+    <section class="about pt-0">
+        <div class="container" data-aos="fade-up">
+            <div class="row">
+                <div class="col-lg-12 order-1 order-lg-1 content" data-aos="fade-left" data-aos-delay="100">
+                    <h3>Crafting Clothing and Home Elegance</h3>
+                </div>
+                <div class="col-lg-6 order-1 order-lg-1 mt-3" data-aos="fade-left" data-aos-delay="100">
+                    <img src="assets/img/yazdbafco/clothes.jpg" class="img-fluid" alt="">
+                </div>
+                <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-2 mt-2 content" data-aos="fade-right"
+                     data-aos-delay="100">
+                    <p style="text-align: justify;">
+                        Yazdbaf masterfully crafts both clothing and home products, intertwining elegance into every stitch. Our clothing line encompasses a versatile range, from enchanting dresses and chic tops to timeless jeans and refined shirts. Moreover, our expertise extends beyond attire, as we create sophisticated suits and bedding items that harmonize comfort with style. With each creation, we blend tradition and innovation to curate a collection that reflects our commitment to quality. This dedication to craftsmanship resonates not only in your wardrobe but also in your living spaces, where comfort and sophistication converge seamlessly.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section><!-- End About Section -->
 </main><!-- End #main -->
 
 <?php include "footer.php"; ?>

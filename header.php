@@ -48,7 +48,7 @@
             </li>
             <li><a href="what_we_do.php" class="<?php
                                $url = $_SERVER['REQUEST_URI'];
-                                if (strpos($url, 'what_we_do.php') !== false) {
+                                if (strpos($url, 'what_we_do.php') !== false or strpos($url, 'b2b.php') !== false or strpos($url, 'b2c.php') !== false) {
                                     echo " active ";
                                 }
                                 ?>">what we do?</a></li>

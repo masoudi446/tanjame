@@ -89,7 +89,7 @@
                         <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in"
                              data-aos-delay="200">
                             <div class="icon-box">
-                                <div class="icon"><i class="bx bx-book-open"></i></div>
+                                <div class="icon"><img src="assets/img/icons/wholesale (2)black.png" style="width:35px;"/></div>
                                 <h4><a href="">Wholesale Distribution</a></h4>
                                 <p>As the representative of Yazdbaf Company, we offer a comprehensive wholesale distribution platform. Partnering with us grants businesses access to a diverse range of quality products. With a streamlined ordering process, we ensure businesses receive the latest trends and high-demand items, making their inventory management a breeze.</p>
                             </div>
@@ -98,7 +98,7 @@
                         <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0" data-aos="zoom-in"
                              data-aos-delay="300">
                             <div class="icon-box">
-                                <div class="icon"><i class="bx bx-show"></i></div>
+                                <div class="icon"><img src="assets/img/icons/wholesaleblack.png" style="width:42px;"/></div>
                                 <h4><a href="">Procurement Solutions</a></h4>
                                 <p>At Tanjameh, we understand the criticality of efficient procurement processes. Our tailored procurement solutions empower businesses to source the finest materials, including zippers, chemicals, cotton, and raw materials. With a focus on quality, we ensure that businesses have access to the best supplies, helping them elevate their product offerings.</p>
                             </div>
@@ -106,7 +106,7 @@
 
                         <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="100">
                             <div class="icon-box">
-                                <div class="icon"><i class="bx bxl-sketch"></i></div>
+                                <div class="icon"><img src="assets/img/icons/supply-chain.png" style="width:42px;"/></div>
                                 <h4><a href="">Supply Chain Management</a></h4>
                                 <p>Reliable supply chain management is the backbone of any successful business. With our expertise in logistics and supply chain optimization, we ensure businesses experience swift and seamless deliveries. Our commitment to efficiency reduces lead times, helping businesses stay ahead in today's fast-paced market.</p>
                             </div>
@@ -114,7 +114,7 @@
 
                         <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="200">
                             <div class="icon-box">
-                                <div class="icon"><i class="bx bx-user"></i></div>
+                                <div class="icon"><img src="assets/img/icons/partnership.png" style="width:40px;"/></div>
                                 <h4><a href="">Tailored Partnerships</a></h4>
                                 <p>No two businesses are alike, and we acknowledge the unique requirements of each industry. Tanjameh takes pride in fostering customized partnerships that cater to the distinct needs of businesses. Through careful collaboration, we co-create solutions that drive growth and success for our partners.</p>
                             </div>
@@ -122,7 +122,7 @@
 
                         <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="300">
                             <div class="icon-box">
-                                <div class="icon"><i class="bx bxs-business"></i></div>
+                                <div class="icon"><img src="assets/img/icons/protection.png" style="width:40px;"/></div>
                                 <h4><a href="">Reliability and Trust</a></h4>
                                 <p>Trust is the cornerstone of any thriving partnership. Our commitment to reliability and professionalism has earned the trust of numerous satisfied business partners. Testimonials from successful collaborations highlight our unwavering dedication to delivering exceptional service.</p>
                             </div>
@@ -130,14 +130,14 @@
 
                         <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="300">
                             <div class="icon-box">
-                                <div class="icon"><i class="bx bx-medal"></i></div>
+                                <div class="icon"><img src="assets/img/icons/customer-support.png" style="width:42px;"/></div>
                                 <h4><a href="">Customer Support</a></h4>
                                 <p>Our dedicated customer support team is at the heart of our B2B services. We provide prompt assistance, addressing inquiries and concerns with utmost care. With Tanjameh, businesses have a reliable ally that ensures their journey with us is smooth and hassle-free.</p>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="300">
                             <div class="icon-box">
-                                <div class="icon"><i class="bx bx-group"></i></div>
+                                <div class="icon"><img src="assets/img/icons/competitive.png" style="width:42px;"/></div>
                                 <h4><a href="">Competitive Advantage</a></h4>
                                 <p>Choosing Tanjameh as a B2B partner unlocks a distinct competitive advantage. Our deep understanding of market trends, quality products, and efficient supply chain management empowers businesses to stay ahead of the competition</p>
                             </div>
@@ -145,7 +145,7 @@
 
                         <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="300">
                             <div class="icon-box">
-                                <div class="icon"><i class="bx bx-category"></i></div>
+                                <div class="icon"><img src="assets/img/icons/prtnership process.png" style="width:42px;"/></div>
                                 <h4><a href="">Partnership Process</a></h4>
                                 <p>Initiating a partnership with Tanjameh is as seamless as our services. To explore collaboration opportunities and tap into our B2B offerings, simply reach out to our team. We look forward to unlocking new heights of success together.</p>
                             </div>

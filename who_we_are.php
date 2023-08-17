@@ -171,7 +171,7 @@
                 <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in"
                      data-aos-delay="200">
                     <div class="icon-box">
-                        <div class="icon"><i class="bx bx-book-open"></i></div>
+                        <div class="icon"><img src="assets/img/icons/history.png" style="width:30px;"/></div>
                         <h4><a href="">Our Story</a></h4>
                         <p>Tanjameh's journey began in 2018 as a UK-based company with a passion for revolutionizing the
                             fashion industry. Over the years, we have grown into a thriving platform, offering a curated
@@ -183,7 +183,7 @@
                 <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0" data-aos="zoom-in"
                      data-aos-delay="300">
                     <div class="icon-box">
-                        <div class="icon"><i class="bx bx-show"></i></div>
+                        <div class="icon"><img src="assets/img/icons/mission.png" style="width:32px;"/></div>
                         <h4><a href="">Mission and Vision</a></h4>
                         <p>Our mission is simple yet powerful - to be the ultimate one-stop fashion destination that
                             empowers individuals to explore, connect, and redefine their sense of style. We aspire to
@@ -205,7 +205,7 @@
 
                 <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="200">
                     <div class="icon-box">
-                        <div class="icon"><i class="bx bx-user"></i></div>
+                        <div class="icon"><img src="assets/img/icons/leadership.png" style="width:32px;"/></div>
                         <h4><a href="">Leadership Team</a></h4>
                         <p>Our leadership team comprises visionary individuals who bring a wealth of expertise and
                             passion to Tanjameh. With their dedication, we lead the charge in transforming the fashion
@@ -215,7 +215,7 @@
 
                 <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="300">
                     <div class="icon-box">
-                        <div class="icon"><i class="bx bxs-business"></i></div>
+                        <div class="icon"><img src="assets/img/icons/corporate_culture.png" style="width:32px;"/></div>
                         <h4><a href="">Company Culture</a></h4>
                         <p>Tanjameh is more than just a company; it's a close-knit community united by a shared love for
                             fashion and lifestyle. Our company culture fosters creativity, collaboration, and growth,
@@ -244,7 +244,7 @@
 
                 <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="300">
                     <div class="icon-box">
-                        <div class="icon"><i class="bx bx-category"></i></div>
+                        <div class="icon"><img src="assets/img/icons/diversity.png" style="width:35px;"/></div>
                         <h4><a href="">Diversity and Inclusion</a></h4>
                         <p>We celebrate diversity and promote an inclusive environment where every voice is valued.
                             Embracing diverse perspectives enriches our culture and drives innovation.</p>

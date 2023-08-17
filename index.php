@@ -166,36 +166,40 @@
     </section><!-- End Clients Section -->
 
     <!-- ======= Features Section ======= -->
-   <!-- <section id="features" class="features">
+    <section id="features" class="features">
         <div class="container" data-aos="fade-up">
             <div class="row">
-                <div class="image col-lg-6" style='background-image: url("assets/img/features.jpg");'
+                <div class="section-title" style="padding-bottom: 15px;">
+                    <!--<h2>About</h2>-->
+                    <p>Explore the World of Tanjameh</p>
+                </div>
+                <div class="image col-lg-6" style='background-image: url("assets/img/world of tanjameh.jpg");'
                      data-aos="fade-right"></div>
                 <div class="col-lg-6" data-aos="fade-left" data-aos-delay="100">
                     <div class="icon-box mt-5 mt-lg-0" data-aos="zoom-in" data-aos-delay="150">
-                        <i class="bx bx-receipt"></i>
-                        <h4>Est labore ad</h4>
-                        <p>Consequuntur sunt aut quasi enim aliquam quae harum pariatur laboris nisi ut aliquip</p>
+                        <img src="assets/img/icons/emojis.png" style="width:50px; float: left;"/>
+                        <h4>Elevating Fashion</h4>
+                        <p>Experience the epitome of style and quality as we curate a fashion journey like no other</p>
                     </div>
                     <div class="icon-box mt-5" data-aos="zoom-in" data-aos-delay="150">
-                        <i class="bx bx-cube-alt"></i>
-                        <h4>Harum esse qui</h4>
-                        <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt</p>
+                        <img src="assets/img/icons/Creating Connections.png" style="width:50px; float: left;"/>
+                        <h4>Creating Connections</h4>
+                        <p>We bridge the gap between brands, partners, and customers, fostering relationships that redefine the industry.</p>
                     </div>
                     <div class="icon-box mt-5" data-aos="zoom-in" data-aos-delay="150">
-                        <i class="bx bx-images"></i>
-                        <h4>Aut occaecati</h4>
-                        <p>Aut suscipit aut cum nemo deleniti aut omnis. Doloribus ut maiores omnis facere</p>
+                        <img src="assets/img/icons/Unveiling Possibilities.png" style="width:50px;float: left;"/>
+                        <h4>Unveiling Possibilities</h4>
+                        <p>Discover a world of endless possibilities as we redefine the way you experience fashion and lifestyle.</p>
                     </div>
                     <div class="icon-box mt-5" data-aos="zoom-in" data-aos-delay="150">
-                        <i class="bx bx-shield"></i>
-                        <h4>Beatae veritatis</h4>
-                        <p>Expedita veritatis consequuntur nihil tempore laudantium vitae denat pacta</p>
+                        <img src="assets/img/icons/handcraft (1).png" style="width:50px; float: left;"/>
+                        <h4>Crafted for You</h4>
+                        <p>Every step we take is dedicated to providing you with exceptional products, services, and experiences.</p>
                     </div>
                 </div>
             </div>
         </div>
-    </section>--><!-- End Features Section -->
+    </section><!-- End Features Section -->
     <section id="cta" class="cta what_we_do">
         <div class="container" data-aos="zoom-in">
             <div class="text-center">
@@ -215,7 +219,7 @@
             <div class="row">
                 <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
                     <div class="icon-box">
-                        <div class="icon"><img src="assets/img/icons/Tanjameh website.png" style="width:32px;"/></div>
+                        <div class="icon"><img src="assets/img/icons/Tanjameh website.png" style="width:45px;"/></div>
                         <h4><a href="b2c.php">Tanjameh.com</a></h4>
                         <p>Discover your ultimate fashion destination at <a href="https://tanjameh.com">Tanjameh.com!</a> We curate a diverse range of fashion and lifestyle products, bringing the best of the UK to Iran and the Middle East. Whether you're looking for trendy clothing, stylish footwear, chic accessories, or beauty essentials, our platform has it all. With a user-friendly interface and personalized recommendations, shopping with us is a breeze!</p>
                     </div>
@@ -224,7 +228,7 @@
                 <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in"
                      data-aos-delay="200">
                     <div class="icon-box">
-                        <div class="icon"><img src="assets/img/icons/marketplace.png" style="width:32px;"/></div>
+                        <div class="icon"><img src="assets/img/icons/marketplace.png" style="width:45px;"/></div>
                         <h4><a href="b2c.php">Tanjameh Lounge</a></h4>
                         <p>Welcome to Tanjameh Lounge, where we empower businesses to shine on our bustling platform. This section allows other brands and businesses to showcase and sell their unique items, expanding their reach to a wider audience. Join us in fostering a thriving community of creative entrepreneurs, offering customers a richer and more diverse shopping experience. Together, we'll redefine the fashion landscape and create new opportunities for success!</p>
                     </div>
@@ -233,7 +237,7 @@
                 <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0" data-aos="zoom-in"
                      data-aos-delay="300">
                     <div class="icon-box">
-                        <div class="icon"><img src="assets/img/icons/network.png" style="width:32px;"/></div>
+                        <div class="icon"><img src="assets/img/icons/network.png" style="width:45px;"/></div>
                         <h4><a href="b2c.php">Tanjameh Look</a></h4>
                         <p>Get inspired on "Tanjameh Look" where models and creators showcase their unique styles, earning commissions from purchases made through their content.
 
