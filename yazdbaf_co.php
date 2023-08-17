@@ -10,8 +10,8 @@
     <meta content="" name="keywords">
 
     <!-- Favicons -->
-    <link href="assets/img/favicon.png" rel="icon">
-    <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+    <link href="assets/img/logo/favicon.png" rel="icon">
+    <link href="assets/img/logo/apple-touch-icon.png" rel="apple-touch-icon">
 
     <!-- Google Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i"
@@ -64,7 +64,7 @@
     <!-- ======= Features Section ======= -->
     <section id="features" class="features">
         <div class="container" data-aos="fade-up">
-            <div class="image col-lg-12" style='background-image: url("assets/img/yazdbaf cover.jpg");'
+            <div class="image col-lg-12" style='background-image: url("assets/img/yazdbafco/yazdbaf cover.jpg");'
                  data-aos="fade-right"></div>
             <div class="row">
                 <div class="col-lg-12" data-aos="fade-left" data-aos-delay="100">
@@ -106,7 +106,7 @@
                     <h3>Spinning and Two-ply</h3>
                 </div>
                 <div class="col-lg-6 order-1 order-lg-2 mt-3" data-aos="fade-left" data-aos-delay="100">
-                    <img src="assets/img/spinning.jpg" class="img-fluid" alt="">
+                    <img src="assets/img/yazdbafco/spinning.jpg" class="img-fluid" alt="">
                 </div>
                 <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 mt-2 content" data-aos="fade-right"
                      data-aos-delay="100">
@@ -152,7 +152,7 @@
                 </div>
                 <div class="col-lg-6 d-flex align-items-stretch" data-aos="fade-right"
                      data-aos-delay="100">
-                    <img src="assets/img/weaving.jpg" style="max-width: 100%;">
+                    <img src="assets/img/yazdbafco/weaving.jpg" style="max-width: 100%;">
                 </div>
                 <div class="col-lg-6 d-flex align-items-stretch" data-aos="fade-right"
                      data-aos-delay="100">
@@ -220,7 +220,7 @@
                     <h3>Dyeing, Printing, and Finishing</h3>
                 </div>
                 <div class="col-lg-12 order-1 order-lg-1" data-aos="fade-left" data-aos-delay="100">
-                    <img src="assets/img/finishing.jpg" class="img-fluid" alt="">
+                    <img src="assets/img/yazdbafco/finishing.jpg" class="img-fluid" alt="">
                 </div>
                 <div class="col-lg-12 pt-4 pt-lg-0 mt-2 order-2 order-lg-2 content" data-aos="fade-right"
                      data-aos-delay="100">

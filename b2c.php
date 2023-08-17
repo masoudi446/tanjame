@@ -10,8 +10,8 @@
     <meta content="" name="keywords">
 
     <!-- Favicons -->
-    <link href="assets/img/favicon.png" rel="icon">
-    <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+    <link href="assets/img/logo/favicon.png" rel="icon">
+    <link href="assets/img/logo/apple-touch-icon.png" rel="apple-touch-icon">
 
     <!-- Google Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i"
@@ -78,7 +78,7 @@
                 </div>
                 <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-right"
                      data-aos-delay="100">
-                    <img src="assets/img/tanjameh_com.PNG" class="img-fluid" alt="">
+                    <img src="assets/img/b2c/tanjameh_com.PNG" class="img-fluid" alt="">
                 </div>
             </div>
         </div>
@@ -95,7 +95,7 @@
                 </div>
                 <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-right"
                      data-aos-delay="100">
-                    <img src="assets/img/007 Tanjameh Lounge 2.jpg" class="img-fluid" alt="">
+                    <img src="assets/img/b2c/007 Tanjameh Lounge 2.jpg" class="img-fluid" alt="">
                 </div>
             </div>
         </div>
@@ -113,7 +113,7 @@
                 </div>
                 <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-right"
                      data-aos-delay="100">
-                    <img src="assets/img/008 Tanjameh Look.jpg" class="img-fluid" alt="">
+                    <img src="assets/img/b2c/008 Tanjameh Look.jpg" class="img-fluid" alt="">
                 </div>
             </div>
         </div>

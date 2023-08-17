@@ -1,7 +1,7 @@
 <div class="container d-flex align-items-center justify-content-lg-between">
 
     <!--<h1 class="logo me-auto me-lg-0"><a href="index.php">Gp<span>.</span></a></h1>-->
-    <h1 class="logo me-auto me-lg-0"><a href="index.php" class="logo me-auto me-lg-0"><img src="assets/img/logo.png"
+    <h1 class="logo me-auto me-lg-0"><a href="index.php" class="logo me-auto me-lg-0"><img src="assets/img/logo/logo.png"
                                                                                             alt=""
                                                                                             class="img-fluid"></a></h1>
     <!-- Uncomment below if you prefer to use an image logo -->

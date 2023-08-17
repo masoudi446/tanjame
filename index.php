@@ -10,8 +10,8 @@
     <meta content="" name="keywords">
 
     <!-- Favicons -->
-    <link href="assets/img/favicon.png" rel="icon">
-    <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+    <link href="assets/img/logo/favicon.png" rel="icon">
+    <link href="assets/img/logo/apple-touch-icon.png" rel="apple-touch-icon">
 
     <!-- Google Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i"
@@ -55,38 +55,38 @@
             </div>
         </div>
 
-        <!--<div class="row gy-4 mt-5 justify-content-center" data-aos="zoom-in" data-aos-delay="250">
+        <div class="row gy-4 mt-5 justify-content-center" data-aos="zoom-in" data-aos-delay="250">
             <div class="col-xl-2 col-md-4">
                 <div class="icon-box">
-                    <i class="ri-store-line"></i>
-                    <h3><a href="">Lorem Ipsum</a></h3>
+                    <i><img src="assets/img/icons/wholesale (2).png" style="width:40px;"/></i>
+                    <h3><a href="">Wholesale</a></h3>
                 </div>
             </div>
             <div class="col-xl-2 col-md-4">
                 <div class="icon-box">
-                    <i class="ri-bar-chart-box-line"></i>
-                    <h3><a href="">Dolor Sitema</a></h3>
+                    <i><img src="assets/img/icons/wholesale.png" style="width:45px;"/></i>
+                    <h3><a href="">Procurement</a></h3>
                 </div>
             </div>
             <div class="col-xl-2 col-md-4">
                 <div class="icon-box">
-                    <i class="ri-calendar-todo-line"></i>
-                    <h3><a href="">Sedare Perspiciatis</a></h3>
+                    <i><img src="assets/img/icons/marketplace (1).png" style="width:40px;"/></i>
+                    <h3><a href="https://tanjameh.com" target="_blank">Online Store</a></h3>
                 </div>
             </div>
             <div class="col-xl-2 col-md-4">
                 <div class="icon-box">
                     <i class="ri-paint-brush-line"></i>
-                    <h3><a href="">Magni Dolores</a></h3>
+                    <h3><a href="">Fashion Hub</a></h3>
                 </div>
             </div>
             <div class="col-xl-2 col-md-4">
                 <div class="icon-box">
-                    <i class="ri-database-2-line"></i>
-                    <h3><a href="">Nemos Enimade</a></h3>
+                    <i><img src="assets/img/icons/bullhorn.png" style="width:40px;"/></i>
+                    <h3><a href="">Fashion Social</a></h3>
                 </div>
             </div>
-        </div>-->
+        </div>
 
     </div>
 </section><!-- End Hero -->
@@ -215,7 +215,7 @@
             <div class="row">
                 <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
                     <div class="icon-box">
-                        <div class="icon"><i class="bx bxl-dribbble"></i></div>
+                        <div class="icon"><img src="assets/img/icons/Tanjameh website.png" style="width:32px;"/></div>
                         <h4><a href="b2c.php">Tanjameh.com</a></h4>
                         <p>Discover your ultimate fashion destination at <a href="https://tanjameh.com">Tanjameh.com!</a> We curate a diverse range of fashion and lifestyle products, bringing the best of the UK to Iran and the Middle East. Whether you're looking for trendy clothing, stylish footwear, chic accessories, or beauty essentials, our platform has it all. With a user-friendly interface and personalized recommendations, shopping with us is a breeze!</p>
                     </div>
@@ -224,7 +224,7 @@
                 <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in"
                      data-aos-delay="200">
                     <div class="icon-box">
-                        <div class="icon"><img src="assets/img/marketplace.png" style="width:32px;"/></div>
+                        <div class="icon"><img src="assets/img/icons/marketplace.png" style="width:32px;"/></div>
                         <h4><a href="b2c.php">Tanjameh Lounge</a></h4>
                         <p>Welcome to Tanjameh Lounge, where we empower businesses to shine on our bustling platform. This section allows other brands and businesses to showcase and sell their unique items, expanding their reach to a wider audience. Join us in fostering a thriving community of creative entrepreneurs, offering customers a richer and more diverse shopping experience. Together, we'll redefine the fashion landscape and create new opportunities for success!</p>
                     </div>
@@ -233,7 +233,7 @@
                 <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0" data-aos="zoom-in"
                      data-aos-delay="300">
                     <div class="icon-box">
-                        <div class="icon"><img src="assets/img/network.png" style="width:32px;"/></div>
+                        <div class="icon"><img src="assets/img/icons/network.png" style="width:32px;"/></div>
                         <h4><a href="b2c.php">Tanjameh Look</a></h4>
                         <p>Get inspired on "Tanjameh Look" where models and creators showcase their unique styles, earning commissions from purchases made through their content.
 

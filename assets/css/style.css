@@ -771,12 +771,12 @@ section {
 }
 
 .cta.what_we_do {
-    background: linear-gradient(rgba(2, 2, 2, 0.5), rgba(0, 0, 0, 0.5)), url("../img/006 B2B Business 2.jpg") fixed center center;
+    background: linear-gradient(rgba(2, 2, 2, 0.5), rgba(0, 0, 0, 0.5)), url("../img/b2b/006 B2B Business 2.jpg") fixed center center;
     background-size: cover;
     padding: 80px 0;
 }
 .cta.what_we_do.top_image {
-    background: linear-gradient(rgba(2, 2, 2, 0.5), rgba(0, 0, 0, 0.5)), url("../img/B2B.jpg") fixed center center;
+    background: linear-gradient(rgba(2, 2, 2, 0.5), rgba(0, 0, 0, 0.5)), url("../img/b2b/B2B.jpg") fixed center center;
     background-size: cover;
     padding: 80px 0;
 }
@@ -1083,7 +1083,7 @@ section {
 }
 
 .counts .image {
-    background: url("../img/weaving.jpg") center center no-repeat;
+    background: url("../img/yazdbafco/weaving.jpg") center center no-repeat;
     background-size: contain;
     min-height: 400px;
 }

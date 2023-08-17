@@ -10,8 +10,8 @@
     <meta content="" name="keywords">
 
     <!-- Favicons -->
-    <link href="assets/img/favicon.png" rel="icon">
-    <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+    <link href="assets/img/logo/favicon.png" rel="icon">
+    <link href="assets/img/logo/apple-touch-icon.png" rel="apple-touch-icon">
 
     <!-- Google Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i"
@@ -180,7 +180,7 @@
     <section id="features" class="features">
         <div class="container" data-aos="fade-up">
             <div class="row">
-                <div class="image col-lg-6" style='background-image: url("assets/img/cotton.jpg");'
+                <div class="image col-lg-6" style='background-image: url("assets/img/b2b/cotton.jpg");'
                      data-aos="fade-right"></div>
                 <div class="col-lg-6" data-aos="fade-left" data-aos-delay="100">
                     <div class="icon-box mt-5 mt-lg-0" data-aos="zoom-in" data-aos-delay="150">
@@ -196,7 +196,7 @@
     <section id="features" class="features">
         <div class="container" data-aos="fade-up">
             <div class="row">
-                <div class="image col-lg-6" style='background-image: url("assets/img/Textile-Chemicals.jpeg");'
+                <div class="image col-lg-6" style='background-image: url("assets/img/b2b/Textile-Chemicals.jpeg");'
                      data-aos="fade-right"></div>
                 <div class="col-lg-6" data-aos="fade-left" data-aos-delay="100">
                     <div class="icon-box mt-5 mt-lg-0" data-aos="zoom-in" data-aos-delay="150">
@@ -217,7 +217,7 @@
     <section id="features" class="features">
         <div class="container" data-aos="fade-up">
             <div class="row">
-                <div class="image col-lg-6" style='background-image: url("assets/img/fashion.jpg");'
+                <div class="image col-lg-6" style='background-image: url("assets/img/b2b/fashion.jpg");'
                      data-aos="fade-right"></div>
                 <div class="col-lg-6" data-aos="fade-left" data-aos-delay="100">
                     <div class="icon-box mt-5 mt-lg-0" data-aos="zoom-in" data-aos-delay="150">
@@ -233,7 +233,7 @@
     <section id="features" class="features">
         <div class="container" data-aos="fade-up">
             <div class="row">
-                <div class="image col-lg-6" style='background-image: url("assets/img/ykk.jpeg");'
+                <div class="image col-lg-6" style='background-image: url("assets/img/b2b/ykk.jpeg");'
                      data-aos="fade-right"></div>
                 <div class="col-lg-6" data-aos="fade-left" data-aos-delay="100">
                     <div class="icon-box mt-5 mt-lg-0" data-aos="zoom-in" data-aos-delay="150">
@@ -249,7 +249,7 @@
     <section id="features" class="features">
         <div class="container" data-aos="fade-up">
             <div class="row">
-                <div class="image col-lg-6" style='background-image: url("assets/img/amazon.jpg");'
+                <div class="image col-lg-6" style='background-image: url("assets/img/b2b/amazon.jpg");'
                      data-aos="fade-right"></div>
                 <div class="col-lg-6" data-aos="fade-left" data-aos-delay="100">
                     <div class="icon-box mt-5 mt-lg-0" data-aos="zoom-in" data-aos-delay="150">
