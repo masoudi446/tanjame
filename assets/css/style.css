@@ -13,6 +13,9 @@ body {
     font-family: "Open Sans", sans-serif;
     color: #444444;
 }
+.main{
+    padding-top:10px;
+}
 
 a {
     color: #ffc451;
@@ -149,7 +152,7 @@ h6 {
 }
 
 #header .logo img {
-    max-height: 40px;
+    max-height: 50px;
 }
 
 /*--------------------------------------------------------------
@@ -297,8 +300,8 @@ h6 {
 * Mobile Navigation 
 */
 .mobile-nav-toggle {
-    color: #fff;
-    font-size: 28px;
+    color: #ffc451;
+    font-size: 35px;
     cursor: pointer;
     display: none;
     line-height: 0;

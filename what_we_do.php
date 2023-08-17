@@ -45,7 +45,7 @@
     <?php include "header.php"; ?>
 </header><!-- End Header -->
 
-<main id="main">
+<main id="main" class="main">
 
     <!-- ======= Breadcrumbs ======= -->
     <section class="breadcrumbs">

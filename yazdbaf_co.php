@@ -45,7 +45,7 @@
     <?php include "header.php"; ?>
 </header><!-- End Header -->
 
-<main id="main">
+<main id="main" class="main">
 
     <!-- ======= Breadcrumbs ======= -->
     <section class="breadcrumbs">
@@ -161,7 +161,7 @@
                         <div class="row">
                             <div class="col-md-12 d-md-flex align-items-md-stretch">
                                 <div class="count-box">
-                                    <div class="icon"><img src="assets/img/icons/textile.png" style="width:35px; float: left;"/></div>
+                                    <div class="icon"><img src="assets/img/icons/textile.png" style="width:40px; float: left;"/></div>
                                     <span data-purecounter-start="0" data-purecounter-end="360"
                                           data-purecounter-duration="2" class="purecounter"></span>
                                     <p><strong>projectile Sulzer weaving machines</strong>, with a width of
@@ -171,7 +171,7 @@
 
                             <div class="col-md-12 d-md-flex align-items-md-stretch">
                                 <div class="count-box">
-                                    <img src="assets/img/icons/knitting.png" style="width:35px; float: left;"/>
+                                    <img src="assets/img/icons/knitting.png" style="width:40px; float: left;"/>
                                     <span data-purecounter-start="0" data-purecounter-end="12"
                                           data-purecounter-duration="2" class="purecounter"></span>
                                     <p><strong>Sulzer Rapier machines</strong>, with a width of <strong>360</strong> cm.
@@ -181,7 +181,7 @@
 
                             <div class="col-md-12 d-md-flex align-items-md-stretch">
                                 <div class="count-box">
-                                    <div class="icon"><img src="assets/img/icons/knitting (1).png" style="width:35px; float: left;"/></div>
+                                    <div class="icon"><img src="assets/img/icons/knitting (1).png" style="width:40px; float: left;"/></div>
                                     <span data-purecounter-start="0" data-purecounter-end="71"
                                           data-purecounter-duration="2" class="purecounter"></span>
                                     <p><strong>Sulzer Rapier machines with dobby</strong>, with a width of

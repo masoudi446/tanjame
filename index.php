@@ -91,7 +91,7 @@
     </div>
 </section><!-- End Hero -->
 
-<main id="main">
+<main id="main" class="main">
 
     <!-- ======= About Section ======= -->
     <section id="about" class="about">
