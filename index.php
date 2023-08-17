@@ -59,13 +59,13 @@
             <div class="col-xl-2 col-md-4">
                 <div class="icon-box">
                     <i><img src="assets/img/icons/wholesale (2).png" style="width:40px;"/></i>
-                    <h3><a href="">Wholesale</a></h3>
+                    <h3><a href="b2b.php">Wholesale</a></h3>
                 </div>
             </div>
             <div class="col-xl-2 col-md-4">
                 <div class="icon-box">
-                    <i><img src="assets/img/icons/wholesale.png" style="width:45px;"/></i>
-                    <h3><a href="">Procurement</a></h3>
+                    <i><img src="assets/img/icons/wholesale.png" style="width:50px;"/></i>
+                    <h3><a href="b2b.php">Procurement</a></h3>
                 </div>
             </div>
             <div class="col-xl-2 col-md-4">
@@ -76,14 +76,14 @@
             </div>
             <div class="col-xl-2 col-md-4">
                 <div class="icon-box">
-                    <i class="ri-paint-brush-line"></i>
-                    <h3><a href="">Fashion Hub</a></h3>
+                    <i><img src="assets/img/icons/mobile.png" style="width:40px;"/></i>
+                    <h3><a href="b2c.php">Fashion Hub</a></h3>
                 </div>
             </div>
             <div class="col-xl-2 col-md-4">
                 <div class="icon-box">
                     <i><img src="assets/img/icons/bullhorn.png" style="width:40px;"/></i>
-                    <h3><a href="">Fashion Social</a></h3>
+                    <h3><a href="b2c.php">Fashion Social</a></h3>
                 </div>
             </div>
         </div>
